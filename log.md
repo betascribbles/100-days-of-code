@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 1, 2018 
+### Day 1: January 1, 2018 
 
 **Today's Progress**: Forked GitHub Repo. Documented starting the challenge on wordpress - see link below. Started Week 4 material for Andrew Ng@s Machine Learning on coursera and completed two Kata on codewars.com
 
@@ -9,15 +9,15 @@
 **Link to work:** https://wordpress.com/post/sleepypioneer.wordpress.com/52
 https://www.coursera.org/learn/machine-learning/home/welcome
 
-<!---
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-<!---
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-<!---
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-<!---
-**Link(s) to work**: [Calculator App](http://www.example.com)
+
+### Day 2: January 2, 2018 
+
+**Today's Progress**: Worked on putting a few of my code trials on Codepen. The one below I developed from Wes Bros' 30daysofJavaScript. It was a really valuable course and I learnt so much from it. This pen combines a few of the classes in one as well as being based on a programme (pizza order) that I built at the start of my JavaScript course at Indisoft.
+
+**Thoughts**: Alongside the above I also continued with the Machine Learning course and at the day course learn the basics of PHP. I am really enjoying coding so much but finding the hour for 100DaysofCode for me is most useful for keeping on top of Documentation and keeping my projects in check - super valuable!
+
+**Link(s) to work**: Pizza Ordering App - https://codepen.io/sleepypioneer/pen/BJZGZg
+                     Interactive Piechart - HTML 5 Canvas & JS https://codepen.io/sleepypioneer/pen/rpwdyy
 
 <!---
 ### Day 1: June 27, Monday
