@@ -19,13 +19,14 @@ https://www.coursera.org/learn/machine-learning/home/welcome
 **Link(s) to work**: Pizza Ordering App - https://codepen.io/sleepypioneer/pen/BJZGZg
                      Interactive Piechart - HTML 5 Canvas & JS https://codepen.io/sleepypioneer/pen/rpwdyy
 
-<!---
-### Day 1: June 27, Monday
-<!---
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-<!---
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+### Day 3: January 3, 2018 
+
+**Today's Progress**: At my daytime class I did alot of PHP on Udemy which felt good but shot my mind alittle. This afternoon I completed Machine Learning week 4 and started the codeacademy Data Science track. I also did a couple of Code war Kata today and a little freecode camp as mental breaks from the PHP.
+
+**Thoughts** Intense day on PHP but very happy with the process! Also have split out a couple of features from my vocab trainer onto codepen so I can edit these features. 
 
 
-**Link(s) to work**
-1. https://codepen.io/sleepypioneer
+**Link(s) to work**:  Feature for Vocab Trainer Input type shrinks on type - https://codepen.io/sleepypioneer/pen/OzjVBE
+                      Feature for Vocab Trainer Timer/ stop watch - https://codepen.io/sleepypioneer/pen/qpXdzr
+1. 
