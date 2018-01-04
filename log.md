@@ -29,4 +29,14 @@ https://www.coursera.org/learn/machine-learning/home/welcome
 
 **Link(s) to work**:  Feature for Vocab Trainer Input type shrinks on type - https://codepen.io/sleepypioneer/pen/OzjVBE
                       Feature for Vocab Trainer Timer/ stop watch - https://codepen.io/sleepypioneer/pen/qpXdzr
-1. 
+
+
+### Day 4: January 4, 2018 
+
+**Today's Progress**: After finishing the PHP & SQL part of the course I was following and starting an example for a Book Club app I spent the afternoon adapting the Pong game I made last year into a Birthday gift for a friend. Link below. Working with the audio inside the loops was quite tricky and it is a little buggy but hopefully he likes it. As we're out to Dinner tonight and I have an appointment this afternoon I doubt I will get much more done but hope to do a little more code academy Data Science.
+
+**Thoughts** Ok kind of slacked off working on this game for my friend but it was a little tricky in part and good to revisit old code to see how far I have come. I plan to move a few of my private Bitbucket Repos over to Github this weekend so I have more to show there.
+
+
+**Link(s) to work**:  Street Fighter Styled Pong for a friends Birthday - https://codepen.io/sleepypioneer/full/PEKMPM/
+                
