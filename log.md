@@ -39,4 +39,18 @@ https://www.coursera.org/learn/machine-learning/home/welcome
 
 
 **Link(s) to work**:  Street Fighter Styled Pong for a friends Birthday - https://codepen.io/sleepypioneer/full/PEKMPM/
+
+
+### Day 5: January 5, 2018 
+
+**Today's Progress**:Today I put that PHP knowledge to practice, after transfering data from my JSON file to my database (see previous post) I started to manipulate the page and get some simple design elements in. St
+
+Not feeling overly well so had a mid afternoon nap and read a little of Interactive Data Visualisation This evening I have been continuing through the code academy Data Science Beta track learning Matplotlib for python. 
+
+**Thoughts** Pretty excited for the potential of the PHP I have learnt and being able to apply it to both the Book Club App I have started and my on going Vocab Trainer. I am debating trying to make the Book Club app using React also to demonstrate and practice those skills, I believe it will be a good (tough) challenge and give me a chance to showcase library use) Though I intend to keep the Vocab Trainer Vanilla JS.
+
+
+**Link(s) to work**:  For images of my WIP and an extended version of my Journal visit my wordpress: https://sleepypioneer.wordpress.com/2018/01/05/day-5-book-club-app/
                 
+
+
