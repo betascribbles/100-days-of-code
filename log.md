@@ -51,6 +51,14 @@ Not feeling overly well so had a mid afternoon nap and read a little of Interact
 
 
 **Link(s) to work**:  For images of my WIP and an extended version of my Journal visit my wordpress: https://sleepypioneer.wordpress.com/2018/01/05/day-5-book-club-app/
-                
+         
+         
+### Day 6: January 6, 2018 
+
+**Today's Progress**: Today I spent most the afternoon trying to get Anaconda with python 3 and Jupyter Notebook running properly on my machine. At the last Meetup I went to I had a bit of a personal crisis as I had last minute updated or installed something which stopped me from being able to open Jupyter Notebook and therefore participate in the code along lecture on Unsupervised learning. However once I got this up and running I could put into practice the MatPlotLib classes from Codeacademy and draw some charts :)
+
+**Thoughts** Feeling happy now after fixing this, but frustrated most of the afternoon, however the work has paid off. Now I'm going for a much earnt bath with my book!!
 
 
+**Link(s) to work**:  For images of my first MatPlotLib figure and an extended version of my Journal visit my wordpress:                
+https://sleepypioneer.wordpress.com/2018/01/06/day-6-tackling-setting-up-anaconda-with-python-3/
