@@ -62,3 +62,14 @@ Not feeling overly well so had a mid afternoon nap and read a little of Interact
 
 **Link(s) to work**:  For images of my first MatPlotLib figure and an extended version of my Journal visit my wordpress:                
 https://sleepypioneer.wordpress.com/2018/01/06/day-6-tackling-setting-up-anaconda-with-python-3/
+
+
+### Day 7: January 7, 2018 
+
+**Today's Progress**: Today I had a bit of a day off and took some time for chores and reading the Book for my Book Club. I did however complete the next section on the Codeacademy Data Science Track. 
+
+**Thoughts** Week one complete! Feeling like I accomplished alot and looking forwards to the next 93 days :)
+
+
+**Link(s) to work**:  For an extended version of my Journal visit my wordpress:                
+https://sleepypioneer.wordpress.com/
