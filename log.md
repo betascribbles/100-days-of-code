@@ -73,3 +73,15 @@ https://sleepypioneer.wordpress.com/2018/01/06/day-6-tackling-setting-up-anacond
 
 **Link(s) to work**:  For an extended version of my Journal visit my wordpress:                
 https://sleepypioneer.wordpress.com/
+
+
+### Day 8: January 8, 2018 
+
+**Today's Progress**: Today I spent pretty much all day split between setting up my PHP and working with React. I'm pretty keen to incorporate the JS library in my Book Club app as it will show use of a library in my portfolio and is used for a lot of web apps UI. I have been following along a Udacity course on Progressive Web Apps and try to model my App of that also as I find coding along and then applying it to my own work a good set up personally. Lots of time on Stack overflow today...thank goodness for that website! Yet to need to post as I mostly have found answers but I am having a problem with my AJAX requests so after another look at it tomorrow I may have to hit the forums!
+
+**Thoughts** It was an intense day of mainly going back and forth and not a huge sense of achievement at the end of it, though I am sure it will be worth it in the end! Otherwise I have put a few of my repositories on Github now so they are public apose to the ones I currently have on Bitbucket. Tomorrow I am going to Tech Women Meetup which I am looking forwards to and hope to be a bit futher with my Apps!
+
+
+**Link(s) to work**:  You can view my work on Github here:                
+https://github.com/sleepypionee
+
