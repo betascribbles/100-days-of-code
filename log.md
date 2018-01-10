@@ -83,5 +83,30 @@ https://sleepypioneer.wordpress.com/
 
 
 **Link(s) to work**:  You can view my work on Github here:                
-https://github.com/sleepypionee
+https://github.com/sleepypioneer
 
+
+
+### Day 9: January 9, 2018 
+
+**Today's Progress**: I signed up to Codewars about a month ago but from today I am commiting to doing one Kata per day in JS. Honestly the benefit of taking time out from tutorial and apps I’m building to work on a small(ish) coding challenge is huge! T
+
+Now I am off the Women Tech Makers Berlin Meetup at Native Instruments where they are having a group of talks about working in development for music apps, not per say my field but hopefully a chance to meet some new faces.
+
+Until tomrorow!
+
+**Thoughts** The Meetup was great 3 staff members from Native Instruments discussed their roles in the company and what their looked to achieve within their department but also as a company and product. They were pretty candid about how the Berlin office is not very diverse but talked about how they hoped to improve it. Katy Peichart the head of Recruitment talked about how she believes when your recruiting if you don't have a diverse candiancy pool then you should look to fix that not shrug it of. I couldnt agree more and I find it super refreshing to find a recruiter with this atitude.
+
+**Link(s) to work**:  My vocab trainer app is now on Github:                
+https://github.com/sleepypioneer/vocab_trainer
+
+
+### Day 10: January 10, 2018 
+
+**Today's Progress**: Today I got the Vocab App wired up with PHP finally! Woohoo! worked a little on the design also, I want to have the cards where you train similar to children langauge learning cards. I also styled Book Club app and got more under the hood with React - still alot to learn there. I am concerned how I will fix this up with PHP and also if that's the right route but not sure it is smart to take on another techknology right now. Lastly or rather firstly as I did this first thing this morning I completed a Kata and wrote a blog post about my approach( link below). I found the process really rewarding and it helped sink in the methods I used.
+
+**Thoughts** 10% through and feeling reflective, it's been a great 10 days and I feel very positive about this experience and the energy I have at the moment. I just hope to keep the momentum. Talking last night with other developers ta the meetup was a chance to try out talking about my expereince and career goals. Still early days and need to be a little more focused but enjoying it immensly.
+
+
+**Link(s) to work**:  You can view my work on Github here:                
+https://sleepypioneer.wordpress.com/2018/01/10/pete-the-bakers-kata-recursion-and-accessing-objects/
