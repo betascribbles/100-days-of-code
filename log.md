@@ -110,3 +110,17 @@ https://github.com/sleepypioneer/vocab_trainer
 
 **Link(s) to work**:  You can view my work on Github here:                
 https://sleepypioneer.wordpress.com/2018/01/10/pete-the-bakers-kata-recursion-and-accessing-objects/
+
+
+### Day 11: January 11, 2018 
+
+**Today's Progress**: Today I got the Vocab App using the service worker to store data in the local cach and work somewhat offline! Big step forwards but revealed a million bugs ^^ still happy with this progress I think roughing in these techknologies will save me from going back later an dhaving to make more changes. I also put this site up on Github Pages although cirrently it does not link up the PHP and is fairly buggy, still I am able to view it on my phone which is a great (though a little disappointing) insight into its performance. (Lots to work on :) )
+
+**Thoughts** It was another day of going through documentation and various courses to piece together what I wanted but I was successful which was a nice feeling. I have also updated the look alittle of the Vocab Cards which has been satifying although a small win. The below helped alot today to get it clear in my head about service workers, I also looked at the Udacity courses but found they left too large of gaps for me but the code examples were good.
+
+https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0
+
+
+**Link(s) to work**:  Through github pages you can view my app here, thought it is currently very Buggy and not hooking up to the PHP it gives me a starting point for changing the layout and useability and actually access it on my phone.
+https://sleepypioneer.github.io/vocab_trainer/
+
