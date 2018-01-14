@@ -124,3 +124,28 @@ https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0
 **Link(s) to work**:  Through github pages you can view my app here, thought it is currently very Buggy and not hooking up to the PHP it gives me a starting point for changing the layout and useability and actually access it on my phone.
 https://sleepypioneer.github.io/vocab_trainer/
 
+
+### Day 12: January 12, 2018 
+
+**Today's Progress**: Today I focused on tidying up what I had been working on this week on both my apps. I did a couple of codewar Kata and a bit more of www.freecodecamp.org/ (I'm up to the Basic Algorithm Scripting). In the evening I had a friend over for dinner so I didn't get any additional coding done.
+
+**Thoughts** Good end of week tie up and thinking about the next couple of weeks. I have three months left at Indisoft so I need to plan out how I am using this time. My goal is to get both apps up to a polished version in the first month and then focus on more PHP SQL learning with a view for data anaylsis and visualisation.
+
+
+
+### Day 13: January 13, 2018 
+
+**Today's Progress**: Today I got through Week 5 of Andrew Ng's Machine learning course on Coursera.org. It is focusing on Neural Network Learning and Backpropagation. I definitley find this course challenging, the concepts are absolutely fancinating but the Maths is alittle above (perhaps even alot although I don't feel totally lost) my level. However I am perservering because I am enjoying it and  I think it will give me some key concepts and algorithm but I will definietly need more study on this subject. I did however find these great videos for the subject: https://www.youtube.com/watch?v=Ilg3gGewQ5U&app=desktop
+
+**Thoughts** Definitely feeling a little like I am scraping by with the machine learning but I am enjoying it immensly and looking forwards to seeing where the course goes in terms of implementation examples.
+
+
+### Day 14: January 14, 2018 
+
+**Today's Progress**: This morning I focused on working through the week 5 programing challange from Mahcine Learning on coursera and then continued on through codeacademy data science Beta Track, almost done which I'm happy about, I then need to put in some time tomorrow checking my set up as Tuesday I have the Meetup on Tensor Flow.
+
+**Thoughts** I took a bit of the weekend for reading and spending some time away from the computer which I think is important for balance and definitely feeling refreshed for the week ahead!
+
+
+**Link(s) to work**:  For an extended version of my Journal visit my wordpress: https://sleepypioneer.wordpress.com/
+
