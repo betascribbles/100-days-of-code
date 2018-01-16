@@ -142,10 +142,27 @@ https://sleepypioneer.github.io/vocab_trainer/
 
 ### Day 14: January 14, 2018 
 
-**Today's Progress**: This morning I focused on working through the week 5 programing challange from Mahcine Learning on coursera and then continued on through codeacademy data science Beta Track, almost done which I'm happy about, I then need to put in some time tomorrow checking my set up as Tuesday I have the Meetup on Tensor Flow.
+**Today's Progress**: This morning I focused on working through the week 5 programing challange from Machine Learning on coursera and then continued on through codeacademy data science Beta Track, almost done which I'm happy about, I then need to put in some time tomorrow checking my set up as Tuesday I have the Meetup on Tensor Flow.
 
 **Thoughts** I took a bit of the weekend for reading and spending some time away from the computer which I think is important for balance and definitely feeling refreshed for the week ahead!
 
 
 **Link(s) to work**:  For an extended version of my Journal visit my wordpress: https://sleepypioneer.wordpress.com/
 
+
+### Day 15: January 15, 2018 
+
+**Today's Progress**: Today during the day I focused on implementing my different lists (categories) in the Vocab App, I got this mostly completed today including have offline lists and locally stored ones. Tomorrow I need to work on being able to create new lists. Currently I am emulating the local ones so I can keep refreshing the code and cache. In the afternoon I focused on going through my Python notes and trying to complete the Tensorflow, unfortunately it has not been working and I will have to finish it tomorrow before the PyLadies Meetup.
+
+**Thoughts** It was a progressive day for working on my App and I need to keep this flow up so I can finish it in the next four weeks :)
+
+
+
+### Day 16: January 16, 2018 
+
+**Today's Progress**: I managed to fix the fetch request bug this morning I needed to load my js within a then attached to the then that added the .html file into the html innertext. This way it was definitely loaded after the html is loaded! I also spent about 1.5 hours on a level 4 Kata but it was a bit too tricky for me, I will return to it. I dinished the lists implementation. This afternoon I completed installing the Tensorflow enviroment, it turned out Tensor flow does not work with Anaconda 32 bit and I had to uninstall everything and reinstall. I managed in the nick of time! The Meetup was great, Irina was a great instructor and incredibly patient to get everyone up and running. She gave a great introduction and insight to CNN as well as Tensorboard. I really enjoed this session and chatting with the other attendees.
+
+**Thoughts** Really productive day but a long one, now very sleepy! zzzzzzz
+
+
+**Link(s) to work**:  For an extended version of my Journal visit my wordpress: https://sleepypioneer.wordpress.com/
