@@ -166,3 +166,9 @@ https://sleepypioneer.github.io/vocab_trainer/
 
 
 **Link(s) to work**:  For an extended version of my Journal visit my wordpress: https://sleepypioneer.wordpress.com/
+
+### Day 17: January 17, 2018 
+
+**Today's Progress**: Today I spent the afternoon refreshing my Python knowledge and getting my set up enviroment ready for use. I am planning to delve much more into using Python outside of Indisoft, prodominetly through Jupyter Notebooks but I also want to be more familiar with it in general. I am learning through PluralSight I have tried most learning resources online and found PluralSight the most comprehension, naturally some teachers are more engaging than others but overall their content is more thorough and indepth. With also intermediate and advanced courses I hope it will help me know level up from basics to professional.
+
+**Thoughts** Happy to go back over these funamentals and refresh the language, very much needed and will help me move forward with the Data Science courses I have been taking.
