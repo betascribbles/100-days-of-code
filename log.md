@@ -172,3 +172,17 @@ https://sleepypioneer.github.io/vocab_trainer/
 **Today's Progress**: Today I spent the afternoon refreshing my Python knowledge and getting my set up enviroment ready for use. I am planning to delve much more into using Python outside of Indisoft, prodominetly through Jupyter Notebooks but I also want to be more familiar with it in general. I am learning through PluralSight I have tried most learning resources online and found PluralSight the most comprehension, naturally some teachers are more engaging than others but overall their content is more thorough and indepth. With also intermediate and advanced courses I hope it will help me know level up from basics to professional.
 
 **Thoughts** Happy to go back over these funamentals and refresh the language, very much needed and will help me move forward with the Data Science courses I have been taking.
+
+
+### Day 18: January 18, 2018 
+
+**Today's Progress**: VUE (Visual understanding Enviroment)  http://vue.tufts.edu  is a brilliant *free* software for mindmapping and diagraming workflows, functions anything you can think of. I used it today to replace original paper notes and concrete down how my App flows and how the UX is. I am also using it to explain my functions visually and things such as Scoring. 
+
+I also started today to rough in the styling for when the keyboard is up when the user is inputing in a text field. Still alittle unsure of my soultion but this gives you an idea of what I am thinking. It essentially combines checking if an input is in focus, if yes it then checks if the VH has been reduced to less than 350, if this is the case it implements the .keyboardUp class to move unnesscary elements off screen.
+
+This evening I continued on with Plural Sights Python Fundamentals, it's great! I also came across this Youtube Series for Machine Learning with Python which I plan to go through after I am further into the fundamentals.
+
+**Thoughts** Honestly today I felt alittle blocked with my app on what to work on (although there is still a lot to go) instead of forcing it I decided to take a fresh approach with the mapping and diagrams which kept me thinking about the project and gave me some new ideas having looked at a different angles. I also went through the Freecodecamp JavaScript basic algorithms and a handful of Codewars Kata which I will blog about tomorrow.
+
+
+**Link(s) to work**:  For images of my app and diagrams please go to: https://wordpress.com/post/sleepypioneer.wordpress.com/124
