@@ -186,3 +186,13 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 
 
 **Link(s) to work**:  For images of my app and diagrams please go to: https://wordpress.com/post/sleepypioneer.wordpress.com/124
+
+
+### Day 19: January 19, 2018 
+
+**Today's Progress**: After finishing mapping out all the scripts, functions and variables (blue are constants and green muttable variables) it is clear I need to organise the app much better and start refractoring this code into objects and modules. 
+
+**Thoughts** In one way this is shocking how messy my code is, however on the other hand its been a great process and valuable to see the app spread out like this. I intend to then push these into class diagrams using draw.io.
+
+
+**Link(s) to work**:  For images of my app and diagrams please go to: https://sleepypioneer.wordpress.com/2018/01/19/day-19-of-100daysofcode-mapping-out-functions-and-refractoring-code/
