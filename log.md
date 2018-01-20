@@ -196,3 +196,12 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 
 
 **Link(s) to work**:  For images of my app and diagrams please go to: https://sleepypioneer.wordpress.com/2018/01/19/day-19-of-100daysofcode-mapping-out-functions-and-refractoring-code/
+
+
+### Day 20: January 20, 2018 
+
+**Today's Progress**: Today I did the first half of this weeks Machine Learning course, the second half I will do tomorrow. Otherwise it's been anon code focused Day. I skyped with a friend in the states this morning about meeting in Canada later this year, had a consultation for a tattoo (my first) I will have on Tuesday, more on this to follow ^^ and met friends who have just returned from travelling in Australia. All round a super day but a little less coding than normal. Still at least 5 hours though, tomorrow I plan to put a little more time.
+
+**Thoughts** The machine learning is so fascinating but definitely needs a lot of concentration and therefore a little draining in big chunks but by splitting it up and digesting it more slowly I am finding it is going in better :) I also spoke with my Grandparents ( who I will visit in Canada) as it was my Grandads 89th birthday! 
+
+
