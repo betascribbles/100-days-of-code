@@ -205,3 +205,30 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 **Thoughts** The machine learning is so fascinating but definitely needs a lot of concentration and therefore a little draining in big chunks but by splitting it up and digesting it more slowly I am finding it is going in better :) I also spoke with my Grandparents ( who I will visit in Canada) as it was my Grandads 89th birthday! 
 
 
+https://sleepypioneer.wordpress.com/2018/01/23/day-22-day-23-finished-function-mapping-and-improvements/
+
+
+### Day 20: January 21, 2018 
+
+**Today's Progress**: Today I finshed this weeks Machine Learning course. (week 6) It was great to be able to implement some of the previous learnt knowledge to complete the programing challenge. Unfortunately in the afternoon my computer crashed and will not reboot. Luckily after I had completed all the Machine Learning but still concerning as my Data is on there and I had unfortuately not backed it up yet :( Hopefully can get it working again tomorrow.
+
+**Thoughts** The Machine Learning course is really challenging me but I am super enjoying it! I definitely will take more classes like this after completing this one, though I will finish this before making another commitment.
+
+
+### Day 22: January 22, 2018 
+
+**Today's Progress**: The computer is still broken :'( Total nightmare. At least during the day I am working on my Vocab App and also taking a little time for codewars.com Kata. You can see my progress on mapping out my functions below. I have almost converted all the different JS files into objects on the main.js file. I will complete this tomorrow.
+
+**Thoughts** It looks like I will need to completely wipe and reinstall windows. I plan to buy a external hard drive to use in the future not just for Data back up but also to make a partition for running virtual enviroments.
+
+**Link(s) to work**:  For images of my app and diagrams please go to: https://sleepypioneer.wordpress.com/2018/01/23/day-22-day-23-finished-function-mapping-and-improvements/
+
+
+### Day 23: January 23, 2018 
+
+**Today's Progress**: So far completed the function to Objects conversion and started to fine tune some of the functions within those Objects. Also leveled up on codewars.com, I'm now a 5 kyū yellow belt Woop Woop! This afternoon I hope to get the computer up and running again and start the process of reinstalling everything!
+
+**Thoughts** Not having a working computer at home is a total nightmare, I set up my Alexa last night as I would like to do the code academy course on programming it. Just need to get the computer working first.....
+
+
+**Link(s) to work**:  For images of my app and diagrams please go to: https://sleepypioneer.wordpress.com/2018/01/23/day-22-day-23-finished-function-mapping-and-improvements/
