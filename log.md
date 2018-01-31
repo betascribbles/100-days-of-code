@@ -232,3 +232,13 @@ https://sleepypioneer.wordpress.com/2018/01/23/day-22-day-23-finished-function-m
 
 
 **Link(s) to work**:  For images of my app and diagrams please go to: https://sleepypioneer.wordpress.com/2018/01/23/day-22-day-23-finished-function-mapping-and-improvements/
+
+
+### Day 23: January 24 - 31, 2018 
+
+**Today's Progress**:The end of January has been a bit of diaster because of my laptop and home machine breaking. I decided to spend all the time coding while at school and have therefore not updated this blog but rest assured plenty of coding every day. Meaning quite a lot of changes on my Vocab App! Below is the link to my journal where I have attached a few screen shots and explained how I have updated the design.
+
+**Thoughts** Very bummed out not having a working computer. The new one I got last friday then had an error with one of the USB ports and has had to be returned, fingers crossed the next one comes before the weekend so I can start coding again!! Here's to a more successful February! <3
+
+
+**Link(s) to work**:  https://jessica0greene.wordpress.com/2018/01/31/laptop-disaster-and-the-last-week-of-100daysofcode/
