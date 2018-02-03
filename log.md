@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 # Table of contents
+
 | Day                 | Focus         |   | Day                 | Focus         |
 | -------------       | ------------- |   | -------------       | ------------- |
 | [Day 1](#day1)      | Content Cell  |   | [Day 2](#day2)      | Content Cell  |
