@@ -40,7 +40,8 @@
 
 **Link to work:** https://wordpress.com/post/sleepypioneer.wordpress.com/52
 https://www.coursera.org/learn/machine-learning/home/welcome
-
+***
+[Back to Top](#top) 
 
 <a name="day2"></a>
 ### Day 2: January 2, 2018 
@@ -51,7 +52,8 @@ https://www.coursera.org/learn/machine-learning/home/welcome
 
 **Link(s) to work**: Pizza Ordering App - https://codepen.io/sleepypioneer/pen/BJZGZg
                      Interactive Piechart - HTML 5 Canvas & JS https://codepen.io/sleepypioneer/pen/rpwdyy
-
+***
+[Back to Top](#top) 
 
 <a name="day3"></a>
 ### Day 3: January 3, 2018 
@@ -63,7 +65,8 @@ https://www.coursera.org/learn/machine-learning/home/welcome
 
 **Link(s) to work**:  Feature for Vocab Trainer Input type shrinks on type - https://codepen.io/sleepypioneer/pen/OzjVBE
                       Feature for Vocab Trainer Timer/ stop watch - https://codepen.io/sleepypioneer/pen/qpXdzr
-
+***
+[Back to Top](#top) 
 
 <a name="day4"></a>
 ### Day 4: January 4, 2018
@@ -101,7 +104,8 @@ Not feeling overly well so had a mid afternoon nap and read a little of Interact
 
 **Link(s) to work**:  For images of my first MatPlotLib figure and an extended version of my Journal visit my wordpress:                
 https://sleepypioneer.wordpress.com/2018/01/06/day-6-tackling-setting-up-anaconda-with-python-3/
-
+***
+[Back to Top](#top) 
 
 <a name="day7"></a>
 ### Day 7: January 7, 2018 
@@ -113,7 +117,8 @@ https://sleepypioneer.wordpress.com/2018/01/06/day-6-tackling-setting-up-anacond
 
 **Link(s) to work**:  For an extended version of my Journal visit my wordpress:                
 https://sleepypioneer.wordpress.com/
-
+***
+[Back to Top](#top) 
 
 <a name="day8"></a>
 ### Day 8: January 8, 2018 
@@ -125,7 +130,8 @@ https://sleepypioneer.wordpress.com/
 
 **Link(s) to work**:  You can view my work on Github here:                
 https://github.com/sleepypioneer
-
+***
+[Back to Top](#top) 
 
 <a name="day9"></a>
 ### Day 9: January 9, 2018 
@@ -140,7 +146,8 @@ Until tomrorow!
 
 **Link(s) to work**:  My vocab trainer app is now on Github:                
 https://github.com/sleepypioneer/vocab_trainer
-
+***
+[Back to Top](#top) 
 
 <a name="day10"></a>
 ### Day 10: January 10, 2018 
@@ -164,10 +171,10 @@ https://sleepypioneer.wordpress.com/2018/01/10/pete-the-bakers-kata-recursion-an
 
 https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0
 
-
 **Link(s) to work**:  Through github pages you can view my app here, thought it is currently very Buggy and not hooking up to the PHP it gives me a starting point for changing the layout and useability and actually access it on my phone.
 https://sleepypioneer.github.io/vocab_trainer/
-
+***
+[Back to Top](#top) 
 
  <a name="day12"></a>
 ### Day 12: January 12, 2018
@@ -175,7 +182,8 @@ https://sleepypioneer.github.io/vocab_trainer/
 **Today's Progress**: Today I focused on tidying up what I had been working on this week on both my apps. I did a couple of codewar Kata and a bit more of www.freecodecamp.org/ (I'm up to the Basic Algorithm Scripting). In the evening I had a friend over for dinner so I didn't get any additional coding done.
 
 **Thoughts** Good end of week tie up and thinking about the next couple of weeks. I have three months left at Indisoft so I need to plan out how I am using this time. My goal is to get both apps up to a polished version in the first month and then focus on more PHP SQL learning with a view for data anaylsis and visualisation.
-
+***
+[Back to Top](#top) 
 
 <a name="day13"></a>
 ### Day 13: January 13, 2018 
@@ -183,7 +191,8 @@ https://sleepypioneer.github.io/vocab_trainer/
 **Today's Progress**: Today I got through Week 5 of Andrew Ng's Machine learning course on Coursera.org. It is focusing on Neural Network Learning and Backpropagation. I definitley find this course challenging, the concepts are absolutely fancinating but the Maths is alittle above (perhaps even alot although I don't feel totally lost) my level. However I am perservering because I am enjoying it and  I think it will give me some key concepts and algorithm but I will definietly need more study on this subject. I did however find these great videos for the subject: https://www.youtube.com/watch?v=Ilg3gGewQ5U&app=desktop
 
 **Thoughts** Definitely feeling a little like I am scraping by with the machine learning but I am enjoying it immensly and looking forwards to seeing where the course goes in terms of implementation examples.
-
+***
+[Back to Top](#top) 
 
 <a name="day14"></a>
 ### Day 14: January 14, 2018 
@@ -194,7 +203,8 @@ https://sleepypioneer.github.io/vocab_trainer/
 
 
 **Link(s) to work**:  For an extended version of my Journal visit my wordpress: https://sleepypioneer.wordpress.com/
-
+***
+[Back to Top](#top) 
 
 <a name="day15"></a>
 ### Day 15: January 15, 2018 
@@ -212,9 +222,9 @@ https://sleepypioneer.github.io/vocab_trainer/
 
 **Thoughts** Really productive day but a long one, now very sleepy! zzzzzzz
 
-
 **Link(s) to work**:  For an extended version of my Journal visit my wordpress: https://sleepypioneer.wordpress.com/
-
+***
+[Back to Top](#top) 
 
 <a name="day17"></a>
 ### Day 17: January 17, 2018 
@@ -222,6 +232,8 @@ https://sleepypioneer.github.io/vocab_trainer/
 **Today's Progress**: Today I spent the afternoon refreshing my Python knowledge and getting my set up enviroment ready for use. I am planning to delve much more into using Python outside of Indisoft, prodominetly through Jupyter Notebooks but I also want to be more familiar with it in general. I am learning through PluralSight I have tried most learning resources online and found PluralSight the most comprehension, naturally some teachers are more engaging than others but overall their content is more thorough and indepth. With also intermediate and advanced courses I hope it will help me know level up from basics to professional.
 
 **Thoughts** Happy to go back over these funamentals and refresh the language, very much needed and will help me move forward with the Data Science courses I have been taking.
+***
+[Back to Top](#top) 
 
 <a name="day18"></a>
 ### Day 18: January 18, 2018 
@@ -234,8 +246,9 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 
 **Thoughts** Honestly today I felt alittle blocked with my app on what to work on (although there is still a lot to go) instead of forcing it I decided to take a fresh approach with the mapping and diagrams which kept me thinking about the project and gave me some new ideas having looked at a different angles. I also went through the Freecodecamp JavaScript basic algorithms and a handful of Codewars Kata which I will blog about tomorrow.
 
-
 **Link(s) to work**:  For images of my app and diagrams please go to: https://wordpress.com/post/sleepypioneer.wordpress.com/124
+***
+[Back to Top](#top) 
 
 <a name="day19"></a>
 ### Day 19: January 19, 2018 
@@ -246,6 +259,8 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 
 
 **Link(s) to work**:  For images of my app and diagrams please go to: https://sleepypioneer.wordpress.com/2018/01/19/day-19-of-100daysofcode-mapping-out-functions-and-refractoring-code/
+***
+[Back to Top](#top) 
 
 <a name="day20"></a>
 ### Day 20: January 20, 2018 
@@ -264,6 +279,8 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 **Today's Progress**: Today I finshed this weeks Machine Learning course. (week 6) It was great to be able to implement some of the previous learnt knowledge to complete the programing challenge. Unfortunately in the afternoon my computer crashed and will not reboot. Luckily after I had completed all the Machine Learning but still concerning as my Data is on there and I had unfortuately not backed it up yet :( Hopefully can get it working again tomorrow.
 
 **Thoughts** The Machine Learning course is really challenging me but I am super enjoying it! I definitely will take more classes like this after completing this one, though I will finish this before making another commitment.
+***
+[Back to Top](#top) 
 
 <a name="day22"></a>
 ### Day 22: January 22, 2018 
@@ -273,6 +290,8 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 **Thoughts** It looks like I will need to completely wipe and reinstall windows. I plan to buy a external hard drive to use in the future not just for Data back up but also to make a partition for running virtual enviroments.
 
 **Link(s) to work**:  For images of my app and diagrams please go to: https://sleepypioneer.wordpress.com/2018/01/23/day-22-day-23-finished-function-mapping-and-improvements/
+***
+[Back to Top](#top) 
 
 <a name="day23"></a>
 ### Day 23: January 23, 2018 
@@ -283,6 +302,8 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 
 
 **Link(s) to work**:  For images of my app and diagrams please go to: https://sleepypioneer.wordpress.com/2018/01/23/day-22-day-23-finished-function-mapping-and-improvements/
+***
+[Back to Top](#top) 
 
 <a name="day24-31"></a>
 ### Day 24 - 31: January 24 - 31, 2018 
@@ -293,6 +314,8 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 
 
 **Link(s) to work**:  https://jessica0greene.wordpress.com/2018/01/31/laptop-disaster-and-the-last-week-of-100daysofcode/
+***
+[Back to Top](#top) 
 
  <a name="day32"></a>
 ### Day 32: February 1, 2018
@@ -314,8 +337,9 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 
 **Thoughts** Hoping the new set up will help me push forwards with my productivity, I am very keen to learn more Python and Data Science and put into practice what I have learnt so far int hese techknologies.
 
-
 **Link(s) to work**:   https://sleepypioneer.github.io/vocab_trainer/
+***
+[Back to Top](#top) 
 
 <a name="day34"></a>
 ### Day 34: February 3, 2018 
@@ -325,7 +349,8 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 **Thoughts** 
 
 **Link(s) to work**:  https://sleepypioneer.github.io/vocab_trainer/
-
+***
+[Back to Top](#top) 
 
 <a name="day35"></a>
 ### Day 35: February 4, 2018 
@@ -335,7 +360,8 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 **Thoughts** 
 
 **Link(s) to work**:  https://sleepypioneer.github.io/vocab_trainer/
-
+***
+[Back to Top](#top) 
 
 <a name="day36"></a>
 ### Day 36: February 5, 2018 
@@ -347,7 +373,8 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 **Thoughts** 
 
 **Link(s) to work**:  https://sleepypioneer.github.io/vocab_trainer/
-
+***
+[Back to Top](#top) 
 
 <a name="day37"></a>
 ### Day 37: February 6, 2018 
@@ -359,7 +386,8 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 **Thoughts** 
 
 **Link(s) to work**:  https://sleepypioneer.github.io/vocab_trainer/
-
+***
+[Back to Top](#top) 
 
 <a name="day38"></a>
 ### Day 38: February 7, 2018 
@@ -372,7 +400,8 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 **Thoughts** 
 
 **Link(s) to work**:  https://sleepypioneer.github.io/vocab_trainer/
-
+***
+[Back to Top](#top) 
 
 <a name="day39"></a>
 ### Day 39: February 8, 2018 
@@ -396,7 +425,8 @@ Vorlesung:
 **Thoughts** I hope the Vocab App will serve me well as a portfolio piece as I put a lot of work in there, but there is still 4% of finishing work will have to do. First I'd like to take a break and learn some more before taking a look with fresh eyes. The App is running on the link below.
 
 **Link(s) to work**:  https://sleepypioneer.github.io/vocab_trainer/
-
+***
+[Back to Top](#top) 
 
 <a name="day41"></a>
 ### Day 41: February 10, 2018 
@@ -406,7 +436,8 @@ Vorlesung:
 **Thoughts** Had a little more social time in the morning and evening so did not get too much studying done, still it's the weekend!
 
 **Link(s) to work**:  https://codepen.io/sleepypioneer/
-
+***
+[Back to Top](#top) 
 
 <a name="day42"></a>
 ### Day 42: February 11, 2018 
@@ -416,7 +447,8 @@ Vorlesung:
 **Thoughts** Only another two weeks to go with this course, which I have enjoyed alot. Definitely keen to do a couple of projects based on what I have learnt, to showcase and solidify this knowledge.
 
 **Link(s) to work**:  https://codepen.io/sleepypioneer/
-
+***
+[Back to Top](#top) 
 
 <a name="day43"></a>
 ### Day 43: February 12, 2018 
@@ -426,7 +458,8 @@ Vorlesung:
 **Thoughts** 
 
 **Link(s) to work**:  https://codepen.io/sleepypioneer/
-
+***
+[Back to Top](#top) 
 
 <a name="day44"></a>
 ### Day 44: February 13, 2018 
@@ -436,7 +469,8 @@ Vorlesung:
 **Thoughts** 
 
 **Link(s) to work**:  https://codepen.io/sleepypioneer/
-
+***
+[Back to Top](#top) 
 
 <a name="day45"></a>
 ### Day 45: February 14, 2018 
@@ -444,7 +478,6 @@ Vorlesung:
 **Today's Progress**: 
 Worked through the book Einstieg in PHP7 and My SQL by Thomas Theis, chapter 1 up to 2.3. Also added a form to my Book Club web app and styled it, got as far as the MySQL query.
 In the evening I started week 10 of Machine Learning by Coursera - only one more week to go with that course! I have signed up to Kaggle to start doing Machine Learning examples.
-
 
 **Thoughts** Had a few ideas for smaller front end projects to build on code pen to showcase my programming skills.
 
@@ -460,7 +493,8 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 **Thoughts** 
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
-
+***
+[Back to Top](#top) 
 
 a name="day47"></a>
 ### Day 47: February 16, 2018 
@@ -470,7 +504,8 @@ a name="day47"></a>
 **Thoughts** 
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
-
+***
+[Back to Top](#top) 
 
 a name="day48"></a>
 ### Day 48: February 17, 2018 
@@ -480,6 +515,8 @@ a name="day48"></a>
 **Thoughts** 
 
 **Link(s) to work**:  https://codepen.io/sleepypioneer/pen/rJpOrz
+***
+[Back to Top](#top) 
 
 a name="day49"></a>
 ### Day 49: February 18, 2018 
@@ -489,7 +526,8 @@ a name="day49"></a>
 **Thoughts** 
 
 **Link(s) to work**:  https://codepen.io/sleepypioneer/pen/rJpOrz
-
+***
+[Back to Top](#top) 
 
 a name="day50"></a>
 ### Day 50: February 19, 2018 
@@ -510,3 +548,5 @@ a name="day51"></a>
 **Thoughts** 
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
