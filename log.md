@@ -3,22 +3,23 @@
 
 # Table of contents
 
-| Day                 | Focus         |   | Day                 | Focus         |
-| -------------       | ------------- |   | -------------       | ------------- |
-| [Day 1](#day1)      | Content Cell  |   | [Day 2](#day2)      | Content Cell  |
-| [Day 3](#day3)      | Content Cell  |   | [Day 4](#day4)      | Content Cell  |
-| [Day 5](#day5)      | Content Cell  |   | [Day 6](#day6)      | Content Cell  |
-| [Day 7](#day7)      | Content Cell  |   | [Day 8](#day8)      | Content Cell  |
-| [Day 9](#day9)      | Content Cell  |   | [Day 10](#day10)    | Content Cell  |
-| [Day 11](#day11)    | Content Cell  |   | [Day 12](#day12)    | Content Cell  |
-| [Day 13](#day13)    | Content Cell  |   | [Day 14](#day14)    | Content Cell  |
-| [Day 15](#day15)    | Content Cell  |   | [Day 16](#day16)    | Content Cell  |
-| [Day 17](#day17)    | Content Cell  |   | [Day 18](#day18)    | Content Cell  |
-| [Day 19](#day19)    | Content Cell  |   | [Day 20](#day20)    | Content Cell  |
-| [Day 21](#day21)    | Content Cell  |   | [Day 22](#day22)    | Content Cell  |
-| [Day 23](#day23)    | Content Cell  |   | [Day 24](#day24-31) | Content Cell  |
-| [Day 25](#day32)    | Content Cell  |   | [Day 26](#day33)    | Content Cell  |
-| [Day 27](#day34)    | Content Cell  |   | [Day 28](#day35)    | Content Cell  |
+| Day                 | Focus         | Day                 | Focus         |
+|:-------------------:|:-------------:|:-------------------:|:-------------:|
+| [Day 1](#day1)      | Content Cell  | [Day 2](#day2)      | Content Cell  |
+| [Day 3](#day3)      | Content Cell  | [Day 4](#day4)      | Content Cell  |
+| [Day 5](#day5)      | Content Cell  | [Day 6](#day6)      | Content Cell  |
+| [Day 7](#day7)      | Content Cell  | [Day 8](#day8)      | Content Cell  |
+| [Day 9](#day9)      | Content Cell  | [Day 10](#day10)    | Content Cell  |
+| [Day 11](#day11)    | Content Cell  | [Day 12](#day12)    | Content Cell  |
+| [Day 13](#day13)    | Content Cell  | [Day 14](#day14)    | Content Cell  |
+| [Day 15](#day15)    | Content Cell  | [Day 16](#day16)    | Content Cell  |
+| [Day 17](#day17)    | Content Cell  | [Day 18](#day18)    | Content Cell  |
+| [Day 19](#day19)    | Content Cell  | [Day 20](#day20)    | Content Cell  |
+| [Day 21](#day21)    | Content Cell  | [Day 22](#day22)    | Content Cell  |
+| [Day 23](#day23)    | Content Cell  | [Day 24-31](#day24-31) | Content Cell  |
+| [Day 25](#day32)    | Content Cell  | [Day 26](#day33)    | Content Cell  |
+| [Day 27](#day34)    | Content Cell  | [Day 28](#day35)    | Content Cell  |
+
 
 
 <a name="day1"></a>
@@ -441,4 +442,53 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 
 **Thoughts** 
 
-**Link(s) to work**:  https://sleepypioneer.github.io/vocab_trainer/
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+
+
+a name="day47"></a>
+### Day 47: February 16, 2018 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+
+
+a name="day48"></a>
+### Day 48: February 17, 2018 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**:  https://codepen.io/sleepypioneer/pen/rJpOrz
+
+a name="day49"></a>
+### Day 49: February 18, 2018 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**:  https://codepen.io/sleepypioneer/pen/rJpOrz
+
+
+a name="day50"></a>
+### Day 50: February 19, 2018 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+
+
+a name="day51"></a>
+### Day 51: February 20, 2018 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
