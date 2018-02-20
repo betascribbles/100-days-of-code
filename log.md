@@ -3,8 +3,8 @@
 
 ### Table of contents
 
-| Day                 | Focus                                     | Day                 | Focus                                     |
-|:-------------------:|:---------------------------------------:|:-------------------:|:-------------------------------------------:|
+| Day                 | Focus                                   | Day                 | Focus                                       |
+|:-------------------:|:----------------------------------------|:-------------------:|:--------------------------------------------|
 | [Day 1](#day1)      | Challenge begins! Los Gehts!            | [Day 2](#day2)      | Codepen and Wes Bros 30 Days of Js          |
 | [Day 3](#day3)      | Machine Learning Week 4                 | [Day 4](#day4)      | Birthday Tennis Game with JS                |
 | [Day 5](#day5)      | PHP and JSON files                      | [Day 6](#day6)      | Anaconda and setting up Jupyter Notebook    |
@@ -24,9 +24,9 @@
 | [Day 40](#day40)    | Error Fixing and project wrap up        | [Day 41](#day41)    | Anomaly detection and Gausian distribution  |
 | [Day 42](#day42)    | Machine Learning continued              | [Day 43](#day43)    | PPH & MySQL with Udemy                      |
 | [Day 44](#day44)    |                                         | [Day 45](#day45)    | Einstieg in PHP7 and My SQL by Thomas Theis |
-| [Day 46](#day46)    |                                         | [Day 47](#day47)    |  |
-| [Day 48](#day48)    |                                         | [Day 49](#day49)    |  |
-| [Day 50](#day50)    |                                         | [Day 51](#day51)    |  |
+| [Day 46](#day46)    | Selfie with CSS Drawing                 | [Day 47](#day47)    | Dangers of Bias and ML Algorithms in the wild |
+| [Day 48](#day48)    | CSS Drawing of Rupaul <3                | [Day 49](#day49)    | Machine Learning week 10                    |
+| [Day 50](#day50)    | Team building for RSoC                  | [Day 51](#day51)    | Data Science with Python at Pyladies        |
 | [Day 52](#day52)    |                                         | [Day 53](#day53)    |  |
 
 
@@ -488,20 +488,20 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day46"></a>
 ### Day 46: February 15, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Continued working on the Book Club App, moved a few things around and made the book list searchable. In the evening I worked on a codepen CSS drawing of myself, I'm pretty happy with how it turned out. I tweeted a picture of it and got a response from Lynn Fisher! (asinglediv.com) which was super encouraging and all round awesome. 
 
-**Thoughts** 
+**Thoughts** It as nice to take time and do something a little different and a bit more creative.
 
-**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+**Link(s) to work**:  https://codepen.io/sleepypioneer/
 ***
 [Back to Top](#top) 
 
 a name="day47"></a>
 ### Day 47: February 16, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Continued working on the Book Club App, mainly friday clean up of code and projects. Continued on with the PHP Book also. In the evening I skyped with Arati who will hopefully be my partner when applying for the Rails Girls Summer of Code, she seems like a great fit as we are both on a similar level and she has great energy. We will meet again Monday to discuss everything futher and which project we will apply too.
 
-**Thoughts** 
+**Thoughts** Now I have a possible partner the RSoC is looking much more possible and I am excited at the prospect of it actually maybe happening! 
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
 ***
@@ -510,9 +510,9 @@ a name="day47"></a>
 a name="day48"></a>
 ### Day 48: February 17, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Started with the Machine Learning for this week. In the later half of the day I started a new CSS drawing, this time of the hostest with the mostest Rupaul! <3 you can view it at the link below -super enjoying this creative outlet.
 
-**Thoughts** 
+**Thoughts** The CSS drawing is super fun as a side project. I am determined to move into ML and AI though so I need to keep focused. I have started reading Weapons of Math Destruction by Cathy O'Neil https://weaponsofmathdestructionbook.com/ it's a really interesting look at the ethical complications of Algorithms used within our banking systems and beyond. I also really like this talk by Kate Crawford https://www.youtube.com/watch?time_continue=1&v=fMym_BKWQzk about the trouble with Bias when we apply these Algorithms to the real world.
 
 **Link(s) to work**:  https://codepen.io/sleepypioneer/pen/rJpOrz
 ***
@@ -521,9 +521,9 @@ a name="day48"></a>
 a name="day49"></a>
 ### Day 49: February 18, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: I was working at a friends cafe today so only had chance to finish of this weeks Machine Learning lessons and the quiz, which I got 100% on :D
 
-**Thoughts** 
+**Thoughts** Busy week coming up with meet ups and trying to apply for the RGSoC so pacing myself!
 
 **Link(s) to work**:  https://codepen.io/sleepypioneer/pen/rJpOrz
 ***
@@ -532,9 +532,9 @@ a name="day49"></a>
 a name="day50"></a>
 ### Day 50: February 19, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Today I continued the development of my Book Club App. I also met with Arati my partner for applying to the Rails Girls Summer of Code. We put together out game plan for approaching coaching companies and which projects we would like to apply to. We also have pretty much decided on the name Two Bits ^^ *Fingers crosses* we get in!!
 
-**Thoughts** 
+**Thoughts** Really excited at the prospect of getting into the Scholarship and working with Arati on an open source project its exactly the kind of "real world" experience I need now so super hope we get in.
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
 ***
