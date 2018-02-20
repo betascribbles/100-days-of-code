@@ -6,7 +6,7 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## If you've decided to join:
+## If you'd like to also join:
 0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect 
 Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMjgyNTAzOTIwODM3LWJiZmIyYThhMmUyYzA3MmQyNDdjNWEwNjdiMWYyM2QwMzg3YjJlOWIzNzg2ZWVmY2M4ZGI5MDQ1NTgzM2Y3MjU) is a invite link to the 100DaysOfCode Slack channel
 1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
