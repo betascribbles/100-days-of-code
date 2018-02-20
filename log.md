@@ -3,22 +3,31 @@
 
 ### Table of contents
 
-| Day                 | Focus         | Day                 | Focus         |
-|:-------------------:|:-------------:|:-------------------:|:-------------:|
-| [Day 1](#day1)      | Content Cell  | [Day 2](#day2)      | Content Cell  |
-| [Day 3](#day3)      | Content Cell  | [Day 4](#day4)      | Content Cell  |
-| [Day 5](#day5)      | Content Cell  | [Day 6](#day6)      | Content Cell  |
-| [Day 7](#day7)      | Content Cell  | [Day 8](#day8)      | Content Cell  |
-| [Day 9](#day9)      | Content Cell  | [Day 10](#day10)    | Content Cell  |
-| [Day 11](#day11)    | Content Cell  | [Day 12](#day12)    | Content Cell  |
-| [Day 13](#day13)    | Content Cell  | [Day 14](#day14)    | Content Cell  |
-| [Day 15](#day15)    | Content Cell  | [Day 16](#day16)    | Content Cell  |
-| [Day 17](#day17)    | Content Cell  | [Day 18](#day18)    | Content Cell  |
-| [Day 19](#day19)    | Content Cell  | [Day 20](#day20)    | Content Cell  |
-| [Day 21](#day21)    | Content Cell  | [Day 22](#day22)    | Content Cell  |
-| [Day 23](#day23)    | Content Cell  | [Day 24-31](#day24-31) | Content Cell  |
-| [Day 25](#day32)    | Content Cell  | [Day 26](#day33)    | Content Cell  |
-| [Day 27](#day34)    | Content Cell  | [Day 28](#day35)    | Content Cell  |
+| Day                 | Focus                                     | Day                 | Focus                                     |
+|:-------------------:|:---------------------------------------:|:-------------------:|:-------------------------------------------:|
+| [Day 1](#day1)      | Challenge begins! Los Gehts!            | [Day 2](#day2)      | Codepen and Wes Bros 30 Days of Js          |
+| [Day 3](#day3)      | Machine Learning Week 4                 | [Day 4](#day4)      | Birthday Tennis Game with JS                |
+| [Day 5](#day5)      | PHP and JSON files                      | [Day 6](#day6)      | Anaconda and setting up Jupyter Notebook    |
+| [Day 7](#day7)      | Data Science with Codeacademy           | [Day 8](#day8)      | Trying out React                            |
+| [Day 9](#day9)      | Codewars                                | [Day 10](#day10)    | Vocab App                                   |
+| [Day 11](#day11)    | Service Workers                         | [Day 12](#day12)    | Tidying up my code                          |
+| [Day 13](#day13)    | Week 5 Machine Learning with Coursera   | [Day 14](#day14)    | Data Science & Machine Learning             |
+| [Day 15](#day15)    | Working with Data from the Databank     | [Day 16](#day16)    | Tensorflow with Pyladies                    |
+| [Day 17](#day17)    | Python with Plural Sight                | [Day 18](#day18)    | VUE (Visual understanding Enviroment)       |
+| [Day 19](#day19)    | Mapping out functions                   | [Day 20](#day20)    | This weeks ML & my first tattoo :)          |
+| [Day 21](#day21)    | Laptop down :(                          | [Day 22](#day22)    | Vocab App Development                       |
+| [Day 23](#day23)    | Earned 5 kyū yellow belt on codewars    | [Day 24-31](#day24-31) | No Laptop so development slowed          |
+| [Day 32](#day32)    | “Webpage” version of Vocab App          | [Day 33](#day33)    | Code clean up and revisions (its friday)    |
+| [Day 34](#day34)    |                                         | [Day 35](#day35)    |  |
+| [Day 36](#day36)    | Finalising IndexedDB for Vocab App      | [Day 37](#day37)    |  |
+| [Day 38](#day38)    | Timing problem solving                  | [Day 39](#day39)    | Presentation from Vocab App to Class        |
+| [Day 40](#day40)    | Error Fixing and project wrap up        | [Day 41](#day41)    | Anomaly detection and Gausian distribution  |
+| [Day 42](#day42)    | Machine Learning continued              | [Day 43](#day43)    | PPH & MySQL with Udemy                      |
+| [Day 44](#day44)    |                                         | [Day 45](#day45)    | Einstieg in PHP7 and My SQL by Thomas Theis |
+| [Day 46](#day46)    |                                         | [Day 47](#day47)    |  |
+| [Day 48](#day48)    |                                         | [Day 49](#day49)    |  |
+| [Day 50](#day50)    |                                         | [Day 51](#day51)    |  |
+| [Day 52](#day52)    |                                         | [Day 53](#day53)    |  |
 
 
 
@@ -121,7 +130,7 @@ https://github.com/sleepypioneer
 <a name="day9"></a>
 ### Day 9: January 9, 2018 
 
-**Today's Progress**: I signed up to Codewars about a month ago but from today I am commiting to doing one Kata per day in JS. Honestly the benefit of taking time out from tutorial and apps I’m building to work on a small(ish) coding challenge is huge! T
+**Today's Progress**: I signed up to Codewars about a month ago but from today I am trying to doing one Kata per day in JS. Honestly the benefit of taking time out from tutorial and apps I’m building to work on a small(ish) coding challenge is huge! T
 
 Now I am off the Women Tech Makers Berlin Meetup at Native Instruments where they are having a group of talks about working in development for music apps, not per say my field but hopefully a chance to meet some new faces.
 
@@ -241,7 +250,7 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 <a name="day20"></a>
 ### Day 20: January 20, 2018 
 
-**Today's Progress**: Today I did the first half of this weeks Machine Learning course, the second half I will do tomorrow. Otherwise it's been anon code focused Day. I skyped with a friend in the states this morning about meeting in Canada later this year, had a consultation for a tattoo (my first) I will have on Tuesday, more on this to follow ^^ and met friends who have just returned from travelling in Australia. All round a super day but a little less coding than normal. Still at least 5 hours though, tomorrow I plan to put a little more time.
+**Today's Progress**: Today I did the first half of this weeks Machine Learning course, the second half I will do tomorrow. Otherwise it's been a non code focused Day. I skyped with a friend in the states this morning about meeting in Canada later this year, had a consultation for a tattoo (my first) I will have on Tuesday, more on this to follow ^^ and met friends who have just returned from travelling in Australia. All round a super day but a little less coding than normal. Still at least 5 hours though, tomorrow I plan to put a little more time.
 
 **Thoughts** The machine learning is so fascinating but definitely needs a lot of concentration and therefore a little draining in big chunks but by splitting it up and digesting it more slowly I am finding it is going in better :) I also spoke with my Grandparents ( who I will visit in Canada) as it was my Grandads 89th birthday! 
 
