@@ -1,7 +1,7 @@
 <a name="top"></a>
 # 100 Days Of Code - Log
 
-# Table of contents
+### Table of contents
 
 | Day                 | Focus         | Day                 | Focus         |
 |:-------------------:|:-------------:|:-------------------:|:-------------:|
@@ -66,7 +66,7 @@ https://www.coursera.org/learn/machine-learning/home/welcome
 
 **Link(s) to work**:  Street Fighter Styled Pong for a friends Birthday - https://codepen.io/sleepypioneer/full/PEKMPM/
 
-
+                                                                                                                    [Back To Top](#top) 
 <a name="day5"></a>
 ### Day 5: January 5, 2018 
 
@@ -141,8 +141,8 @@ https://github.com/sleepypioneer/vocab_trainer
 
 **Link(s) to work**:  You can view my work on Github here:                
 https://sleepypioneer.wordpress.com/2018/01/10/pete-the-bakers-kata-recursion-and-accessing-objects/
-                                                                                                                    [Back to Top](#top) 
-
+                                                                                                                   
+                                                                                                                   [Back to Top](#top) 
 <a name="day11"></a>
 ### Day 11: January 11, 2018 
 
@@ -190,8 +190,8 @@ https://sleepypioneer.github.io/vocab_trainer/
 **Today's Progress**: Today during the day I focused on implementing my different lists (categories) in the Vocab App, I got this mostly completed today including have offline lists and locally stored ones. Tomorrow I need to work on being able to create new lists. Currently I am emulating the local ones so I can keep refreshing the code and cache. In the afternoon I focused on going through my Python notes and trying to complete the Tensorflow, unfortunately it has not been working and I will have to finish it tomorrow before the PyLadies Meetup.
 
 **Thoughts** It was a progressive day for working on my App and I need to keep this flow up so I can finish it in the next four weeks :)
-                                                                                                                    [Back to Top](#top) 
 
+                                                                                                                    [Back to Top](#top) 
 <a name="day16"></a>
 ### Day 16: January 16, 2018 
 
@@ -243,8 +243,8 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 
 
 https://sleepypioneer.wordpress.com/2018/01/23/day-22-day-23-finished-function-mapping-and-improvements/
-                                                                                                                    [Back to Top](#top) 
-<a name="day21"></a>
+
+                                                                                                                    [Back to Top](#top)<a name="day21"></a>
 ### Day 21: January 21, 2018 
 
 **Today's Progress**: Today I finshed this weeks Machine Learning course. (week 6) It was great to be able to implement some of the previous learnt knowledge to complete the programing challenge. Unfortunately in the afternoon my computer crashed and will not reboot. Luckily after I had completed all the Machine Learning but still concerning as my Data is on there and I had unfortuately not backed it up yet :( Hopefully can get it working again tomorrow.
@@ -290,9 +290,8 @@ https://sleepypioneer.wordpress.com/2018/01/23/day-22-day-23-finished-function-m
 
 
 **Link(s) to work**:  https://sleepypioneer.github.io/vocab_trainer_development_page/
-                                                                                                                    [Back to Top](#top) 
-                                                                                                                    
-<a name="day33"></a>
+
+                                                                                                                    [Back to Top](#top)  <a name="day33"></a>
 ### Day 33: February 2, 2018 
 
 **Today's Progress**: Fridays are my day for cleaning code, checking and adding comments. However today as I am getting to a first completion stage I have also got to the point to where the full implementation of the local storage needed to be completed. This turned out a little more complex than I had initiallly thought and changed up my idea of how I will collect the Data and when the user sends info to the database and when they get it. I actually think this process is super beneficial and will help me with my future Data Base projects. In the atfernoon I completed the Machine Learning course on Coursera by Andrew Ng Week 8 up until the programming challenge. My new laptop arrived and all seems to be working! Which is great so I am looking forwards to getting everything installed and up and running!
@@ -371,7 +370,7 @@ Vorlesung:
 
 **Link(s) to work**:  https://codepen.io/sleepypioneer/
 
-
+                                                                                                                    [Back To Top](#top)
 <a name="day40"></a>
 ### Day 40: February 9, 2018 
 
@@ -434,7 +433,7 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 
 **Link(s) to work**:  https://codepen.io/sleepypioneer/
 
-
+                                                                                                                    [Back To Top](#top)
 <a name="day46"></a>
 ### Day 46: February 15, 2018 
 
@@ -483,7 +482,7 @@ a name="day50"></a>
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
 
-
+                                                                                                                    [Back To Top](#top)
 a name="day51"></a>
 ### Day 51: February 20, 2018 
 
