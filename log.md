@@ -490,7 +490,7 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 ***
 [Back to Top](#top) 
 
-a name="day47"></a>
+<a name="day47"></a>
 ### Day 47: February 16, 2018 
 
 **Today's Progress**: Continued working on the Book Club App, mainly friday clean up of code and projects. Continued on with the PHP Book also. In the evening I skyped with Arati who will hopefully be my partner when applying for the Rails Girls Summer of Code, she seems like a great fit as we are both on a similar level and she has great energy. We will meet again Monday to discuss everything futher and which project we will apply too.
@@ -501,7 +501,7 @@ a name="day47"></a>
 ***
 [Back to Top](#top) 
 
-a name="day48"></a>
+<a name="day48"></a>
 ### Day 48: February 17, 2018 
 
 **Today's Progress**: Started with the Machine Learning for this week. In the later half of the day I started a new CSS drawing, this time of the hostest with the mostest Rupaul! <3 you can view it at the link below -super enjoying this creative outlet.
@@ -512,7 +512,7 @@ a name="day48"></a>
 ***
 [Back to Top](#top) 
 
-a name="day49"></a>
+<a name="day49"></a>
 ### Day 49: February 18, 2018 
 
 **Today's Progress**: I was working at a friends cafe today so only had chance to finish of this weeks Machine Learning lessons and the quiz, which I got 100% on :D
@@ -523,7 +523,7 @@ a name="day49"></a>
 ***
 [Back to Top](#top) 
 
-a name="day50"></a>
+<a name="day50"></a>
 ### Day 50: February 19, 2018 
 
 **Today's Progress**: Today I continued the development of my Book Club App. I also met with Arati my partner for applying to the Rails Girls Summer of Code. We put together out game plan for approaching coaching companies and which projects we would like to apply to. We also have pretty much decided on the name Two Bits ^^ *Fingers crosses* we get in!!
@@ -534,7 +534,7 @@ a name="day50"></a>
 ***
 [Back to Top](#top) 
 
-a name="day51"></a>
+<a name="day51"></a>
 ### Day 51: February 20, 2018 
 
 **Today's Progress**: Today I spent a lot of time sorting out my gitHub repositories in preparation for presenting it as part of the application for RSoC. In the evening I attended the PyLadies meetup. We went through Data Analysis with Pandas and Numpy also using Matplotlib and datetime. It put in to perspective a lot of what I learnt through the codeacademy Beta Data Science track, which was perfect after this busy week is over I am planning to pull our more Kaggle data sets to explore with in this way.
@@ -545,7 +545,7 @@ a name="day51"></a>
 ***
 [Back to Top](#top) 
 
-a name="day52"></a>
+<a name="day52"></a>
 ### Day 52: February 21, 2018 
 
 **Today's Progress**: 
@@ -556,7 +556,7 @@ a name="day52"></a>
 ***
 [Back to Top](#top) 
 
-a name="day53"></a>
+<a name="day53"></a>
 ### Day 53: February 22, 2018 
 
 **Today's Progress**: 
@@ -567,7 +567,7 @@ a name="day53"></a>
 ***
 [Back to Top](#top) 
 
-a name="day54"></a>
+<a name="day54"></a>
 ### Day 54: February 23, 2018 
 
 **Today's Progress**: 
@@ -578,7 +578,7 @@ a name="day54"></a>
 ***
 [Back to Top](#top) 
 
-a name="day55"></a>
+<a name="day55"></a>
 ### Day 55: February 24, 2018 
 
 **Today's Progress**: 
