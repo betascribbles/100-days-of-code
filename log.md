@@ -18,16 +18,16 @@
 | [Day 21](#day21)    | Laptop down :(                          | [Day 22](#day22)    | Vocab App Development                       |
 | [Day 23](#day23)    | Earned 5 kyū yellow belt on codewars    | [Day 24-31](#day24-31) | No Laptop so development slowed          |
 | [Day 32](#day32)    | “Webpage” version of Vocab App          | [Day 33](#day33)    | Code clean up and revisions (its friday)    |
-| [Day 34](#day34)    |                                         | [Day 35](#day35)    |  |
-| [Day 36](#day36)    | Finalising IndexedDB for Vocab App      | [Day 37](#day37)    |  |
+| [Day 34](#day34)    | ML Programming Challenge week 8         | [Day 35](#day35)    | Linear Alegbra with MIT                     |
+| [Day 36](#day36)    | Finalising IndexedDB for Vocab App      | [Day 37](#day37)    | PHP integration & Developer Page.           |
 | [Day 38](#day38)    | Timing problem solving                  | [Day 39](#day39)    | Presentation from Vocab App to Class        |
 | [Day 40](#day40)    | Error Fixing and project wrap up        | [Day 41](#day41)    | Anomaly detection and Gausian distribution  |
 | [Day 42](#day42)    | Machine Learning continued              | [Day 43](#day43)    | PPH & MySQL with Udemy                      |
-| [Day 44](#day44)    |                                         | [Day 45](#day45)    | Einstieg in PHP7 and My SQL by Thomas Theis |
+| [Day 44](#day44)    | Revisiting the Book Club App            | [Day 45](#day45)    | Einstieg in PHP7 and My SQL by Thomas Theis |
 | [Day 46](#day46)    | Selfie with CSS Drawing                 | [Day 47](#day47)    | Dangers of Bias and ML Algorithms in the wild |
 | [Day 48](#day48)    | CSS Drawing of Rupaul <3                | [Day 49](#day49)    | Machine Learning week 10                    |
 | [Day 50](#day50)    | Team building for RSoC                  | [Day 51](#day51)    | Data Science with Python at Pyladies        |
-| [Day 52](#day52)    |                                         | [Day 53](#day53)    |  |
+| [Day 52](#day52)    | Book Club APP with PHP & RSoC meeting   | [Day 53](#day53)    |  |
 
 
 
@@ -344,9 +344,9 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 <a name="day34"></a>
 ### Day 34: February 3, 2018 
 
-**Today's Progress**:
+Today was spent completing the Programmming challenge for Machine Learning week 8. The challenge put in to practice K-means clustering and Unsupervised Learning and also PCA. Afterwards I need a little more of the MIT Linear Algebra Course.
 
-**Thoughts** 
+**Thoughts** Really enjoying the Machine Learning course and I have also seen a number of other interesting resources for when this course is finished. This was definitely a big commitment and some weeks I have struggled getting it finished on time, so I need to be sure not to take too much on at once.
 
 **Link(s) to work**:  https://sleepypioneer.github.io/vocab_trainer/
 ***
@@ -355,9 +355,9 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 <a name="day35"></a>
 ### Day 35: February 4, 2018 
 
-**Today's Progress**:
+**Today's Progress**: Today I spent time on the MIT linear Algebra and also a little time tidying up my online presence at Github, twitter, linkedIn etc. 
 
-**Thoughts** 
+**Thoughts** I've found it important to take some days every so often to access what I have achieved so far and make sure everything is well represented and still accessible.
 
 **Link(s) to work**:  https://sleepypioneer.github.io/vocab_trainer/
 ***
@@ -366,11 +366,9 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 <a name="day36"></a>
 ### Day 36: February 5, 2018 
 
-**Today's Progress**:Vocab Trainer
-- Indexed DB fertig eingestellt
-- PHP DB gebaut
+**Today's Progress**: Today I wired up the IndexedDB database so it is saving in the correct format to local storage, this had taken a little more change that I had anticipated as I realised it was better to save my categories as items in one table, each having it's list name as one property and a second property consisting of an array containing the word objects. It set me up well to start fixing the PHP and MySQL side for server saved categories. Well worth the time put in, next I will need to make it so the user can download lists from the Server and save them across to the local storage but first I need to complete the PHP requests!
 
-**Thoughts** 
+**Thoughts** Doing this has given me new insight into DB architecture and I think after this project I will be better equiped for working on the Book Club App again with more PHP.
 
 **Link(s) to work**:  https://sleepypioneer.github.io/vocab_trainer/
 ***
@@ -379,11 +377,11 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 <a name="day37"></a>
 ### Day 37: February 6, 2018 
 
-**Today's Progress**:Vocab Trainer
-- PHP DB fertig eingestellt
-- Entwickler Seite gebaut
+**Today's Progress**: Today I finished the PHP integration, I also built in the function to download from the server and save to the local. This works really well actually and was alot of fun to do. It requires a few promises for timing and these are a little buggy I noticed so I will have to look more in to how promises work and make sure I can fix it.
 
-**Thoughts** 
+When the site is visited on a large screen it will point to a development page explaining the App and the technologies used. Today I started to flesh that out. It should be similar to the App pages on the app stores but with the addition of technologies used and development notes.
+
+**Thoughts** Excited to get this project up and running so I can show it to some people and get their responses.
 
 **Link(s) to work**:  https://sleepypioneer.github.io/vocab_trainer/
 ***
@@ -392,12 +390,11 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 <a name="day38"></a>
 ### Day 38: February 7, 2018 
 
-**Today's Progress**:Vocab Trainer
-- „Timing“ Fehlers verarbeitet
-- Quelle Text schön kommentiert
-- Entwickler Seite weiter entwickelt
+**Today's Progress**: Today was mainly spent trying to solve the timing problems I have that still appear sometimes when the page with the categories is first called. I have tried various combos of try & Catch and promises. I did however solve the problem with the Point system by moving the update over in to a new function so hopefully that will help with the others too. I also went through and Commented through more of my code so it is really well documented. Possible too much as I do think the code should be more self explanitary but then again if I look at the project in a couple of months I want to know what was going on. 
 
-**Thoughts** 
+I also spent some time today working on the development page for this App as I will pressent it tomorrow to the class. It's still fairly rough but demonstrates enough what I need it to for the presentation tomorrow.
+
+**Thoughts** I am getting a little to the point where I need a break from this project, the last three weeks have been intensly focused on it which has been great but I am also eager to take a step back and learn a little more that can then be applied to it.
 
 **Link(s) to work**:  https://sleepypioneer.github.io/vocab_trainer/
 ***
@@ -406,12 +403,9 @@ This evening I continued on with Plural Sights Python Fundamentals, it's great! 
 <a name="day39"></a>
 ### Day 39: February 8, 2018 
 
-**Today's Progress**:Vocab Trainer
-- Punkt System repariert
-Vorlesung:
-- Präsentation meine App
+**Today's Progress**: Today I presented the App, however it was not quite as planned. In the morning I tried to complete some more of the timing isssues I was having and of course it broke the App :( I was able to present the older version over Github pages (thank god Version control and Git) though this then did not include the Sever database as that is only available at localhost. A little disappointing but I think I got the main points about the App across.
 
-**Thoughts** 
+**Thoughts** It was interesting to have the expereience of presenting the App especially in German. I will definitely need to work more on the App Development page to portray the App. I have also noticed the App shows essentially only a loading bar on IPhones which is a disadvantage when it is supposed to be a protfolio piece. This is mainly due to the PWA technology being a google thing, so I would have to give that up to get it working on Iphone but perhaps I can run a stripped version that works better across the different browsers and devices.
 
 **Link(s) to work**:  https://codepen.io/sleepypioneer/
 ***
@@ -453,7 +447,7 @@ Vorlesung:
 <a name="day43"></a>
 ### Day 43: February 12, 2018 
 
-**Today's Progress**: Started with PHP and MySQL Udemy
+**Today's Progress**: Fresh Week and I am now starting the module on PHP and MySQL. I started with another course from Udemy by Brad Hussey, as I had already learnt the majority of the basics I jumped to his final tutorial on building a dynamic website with PHP. I should finish this tomorrow and be able to apply what I learnt to my Book Club App.
 
 **Thoughts** 
 
@@ -464,9 +458,9 @@ Vorlesung:
 <a name="day44"></a>
 ### Day 44: February 13, 2018 
 
-**Today's Progress**:
+**Today's Progress**: I finished the Udemy course and went through some PHP documentation at php.net I then took my Book Club App and pulled it apart so I could redesign it with what I have learnt. I spent a while also on the redesign, this app will be much more Web based but should also be responsive so I need to make sure it is mobile first particulary with it's navigation.
 
-**Thoughts** 
+**Thoughts** Re-energized to be starting a new project, I've already got a good starting structure so now it'S down to the nitty gritty.
 
 **Link(s) to work**:  https://codepen.io/sleepypioneer/
 ***
@@ -479,7 +473,7 @@ Vorlesung:
 Worked through the book Einstieg in PHP7 and My SQL by Thomas Theis, chapter 1 up to 2.3. Also added a form to my Book Club web app and styled it, got as far as the MySQL query.
 In the evening I started week 10 of Machine Learning by Coursera - only one more week to go with that course! I have signed up to Kaggle to start doing Machine Learning examples.
 
-**Thoughts** Had a few ideas for smaller front end projects to build on code pen to showcase my programming skills.
+**Thoughts** Had a few ideas for smaller front end projects to build on code pen to showcase my programming skills. Particulary I would like to focus on UX and input interactions. One would be to change the font based on the speed of typing or break up how we type, eventually it would be cool to have hardware to make the type more dynamic as when we talk but I thought of a couple ideas with italics and Bold to play with.
 
 **Link(s) to work**:  https://codepen.io/sleepypioneer/
 ***
@@ -542,6 +536,50 @@ a name="day50"></a>
 
 a name="day51"></a>
 ### Day 51: February 20, 2018 
+
+**Today's Progress**: Today I spent a lot of time sorting out my gitHub repositories in preparation for presenting it as part of the application for RSoC. In the evening I attended the PyLadies meetup. We went through Data Analysis with Pandas and Numpy also using Matplotlib and datetime. It put in to perspective a lot of what I learnt through the codeacademy Beta Data Science track, which was perfect after this busy week is over I am planning to pull our more Kaggle data sets to explore with in this way.
+
+**Thoughts** Really enjoyed the meet up again, it was also lovely to see Katy at Native Instruments. I approached the Pyladies Team and offered my time to help them as they are looking for someone to help out with Social media. The response seemed positive so we will see!
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
+
+a name="day52"></a>
+### Day 52: February 21, 2018 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
+
+a name="day53"></a>
+### Day 53: February 22, 2018 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
+
+a name="day54"></a>
+### Day 54: February 23, 2018 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
+
+a name="day55"></a>
+### Day 55: February 24, 2018 
 
 **Today's Progress**: 
 
