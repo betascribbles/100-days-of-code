@@ -27,7 +27,16 @@
 | [Day 46](#day46)    | Selfie with CSS Drawing                 | [Day 47](#day47)    | Dangers of Bias and ML Algorithms in the wild |
 | [Day 48](#day48)    | CSS Drawing of Rupaul <3                | [Day 49](#day49)    | Machine Learning week 10                    |
 | [Day 50](#day50)    | Team building for RSoC                  | [Day 51](#day51)    | Data Science with Python at Pyladies        |
-| [Day 52](#day52)    | Book Club APP with PHP & RSoC meeting   | [Day 53](#day53)    |  |
+| [Day 52](#day52)    | Nextcloud meetup & installing a  VM     | [Day 53](#day53)  | Article for increasing Diversity in hiring  |
+| [Day 54](#day52)    | Setting up Nextcloud Dev envrioment     | [Day 55](#day53)    | Women Who Go - Ultimate Go Workshop   	    |
+| [Day 56](#day52)    | Ultimate Go Workshop Day 2 & completing ML course | [Day 57](#day53)| Working on our first Nextcloud issue  |
+| [Day 58](#day52)    | Kubernetes Meetup with Lora             | [Day 59](#day53)    | Application in & Go workshop - Gopher Chess |
+| [Day 60](#day52)    | MicroPyBoard deliver for IOT workshop   | [Day 61](#day53)    | Organisation for PyLadies & mastering Twitter|
+| [Day 62](#day52)    | Golang Course on Udemy                  | [Day 63](#day53)    | First PR for Nextcloud!                     |
+| [Day 64](#day52)    | Automate the Boring things with Python! | [Day 65](#day53)    | Update of Bookclub progress                 |
+| [Day 66](#day52)    |    | [Day 67](#day53)    | Womens March |
+| [Day 68](#day52)    |    | [Day 69](#day53)    |  |
+| [Day 70](#day52)    |    | [Day 71](#day53)    |  |
 
 
 
@@ -531,6 +540,7 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 **Thoughts** Really excited at the prospect of getting into the Scholarship and working with Arati on an open source project its exactly the kind of "real world" experience I need now so super hope we get in.
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+                      https://railsgirlssummerofcode.org/
 ***
 [Back to Top](#top) 
 
@@ -548,28 +558,174 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day52"></a>
 ### Day 52: February 21, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Nextcloud meetup & installing a  VM
 
 **Thoughts** 
 
-**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+**Link(s) to work**:  https://www.ubuntu.com/
 ***
 [Back to Top](#top) 
 
 <a name="day53"></a>
 ### Day 53: February 22, 2018 
 
-**Today's Progress**: 
+**Today's Progress**:  Organisation for PyLadies & mastering Twitter
 
 **Thoughts** 
 
-**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+**Link(s) to work**:  https://www.meetup.com/PyLadies-Berlin
 ***
 [Back to Top](#top) 
 
 <a name="day54"></a>
 ### Day 54: February 23, 2018 
 
+**Today's Progress**: Setting up Nextcloud Dev envrioment
+
+**Thoughts** 
+
+**Link(s) to work**:  https://nextcloud.com/
+***
+[Back to Top](#top) 
+
+<a name="day55"></a>
+### Day 55: February 24, 2018 
+
+**Today's Progress**: Women Who Go - Ultimate Go Workshop
+
+**Thoughts** 
+
+**Link(s) to work**:  https://www.meetup.com/Women-Who-Go-Berlin/events/247056137/
+***
+[Back to Top](#top) 
+
+<a name="day56"></a>
+### Day 56: February 25, 2018 
+
+**Today's Progress**: Ultimate Go Workshop Day 2 & completing ML course
+
+**Thoughts** 
+
+**Link(s) to work**:  https://www.meetup.com/Women-Who-Go-Berlin/events/247056137/
+                      https://www.coursera.org/learn/machine-learning/home/welcome
+***
+[Back to Top](#top) 
+
+<a name="day57"></a>
+### Day 57: February 26, 2018 
+
+**Today's Progress**: Working on our first Nextcloud issue
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/nextcloud/contacts/issues/445
+***
+[Back to Top](#top) 
+
+<a name="day58"></a>
+### Day 58: February 27, 2018 
+
+**Today's Progress**: Kubernetes Meetup with Lora 
+
+**Thoughts** 
+
+**Link(s) to work**: https://www.meetup.com/Women-Techmakers-Berlin/events/246814497/
+***
+[Back to Top](#top) 
+
+<a name="day59"></a>
+### Day 59: February 28, 2018 
+
+**Today's Progress**: Application in! & Go workshop - Gopher Chess
+
+**Thoughts** 
+
+**Link(s) to work**:  https://www.meetup.com/Women-Who-Go-Berlin/events/247651593/
+                      https://github.com/wwgberlin/go-event-sourcing-exercise
+***
+[Back to Top](#top) 
+
+<a name="day60"></a>
+### Day 60: March 01, 2018 
+
+**Today's Progress**: MicroPyBoard delivery for IOT workshop
+
+**Thoughts** 
+
+**Link(s) to work**:  https://www.meetup.com/PyLadies-Berlin/events/246897580/
+***
+[Back to Top](#top) 
+
+<a name="day61"></a>
+### Day 61: March 02, 2018 
+
+**Today's Progress**: Article for increasing Diversity in hiring
+
+**Thoughts** 
+
+**Link(s) to work**:  https://docs.google.com/document/d/1HvVURE8J6esYWjTlHGNgzMnq7c98FoUgejZ6SWAZlsc/edit?usp=sharing
+                      https://railsgirlssummerofcode.org/
+***
+[Back to Top](#top) 
+
+<a name="day62"></a>
+### Day 62: March 03, 2018 
+
+**Today's Progress**:  Golang Course on Udemy   
+
+**Thoughts** 
+
+**Link(s) to work**:  https://www.udemy.com/einfuhrung-in-go/learn/v4/content
+***
+[Back to Top](#top) 
+
+<a name="day63"></a>
+### Day 63: March 04, 2018 
+
+**Today's Progress**: First PR for Nextcloud! 
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/nextcloud/contacts/pull/509
+***
+[Back to Top](#top) 
+
+<a name="day64"></a>
+### Day 64: March 05, 2018 
+
+**Today's Progress**: Automate the Boring things with Python!
+
+**Thoughts** 
+
+**Link(s) to work**:  https://www.udemy.com/automate/learn/v4/content
+***
+[Back to Top](#top) 
+
+<a name="day65"></a>
+### Day 65: March 06, 2018 
+
+**Today's Progress**: Update of Bookclub progress
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
+
+<a name="day66"></a>
+### Day 66: March 07, 2018 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top)
+
+<a name="day67"></a>
+### Day 67: March 08, 2018 
+
 **Today's Progress**: 
 
 **Thoughts** 
@@ -578,8 +734,30 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 ***
 [Back to Top](#top) 
 
-<a name="day55"></a>
-### Day 55: February 24, 2018 
+<a name="day68"></a>
+### Day 68: March 09, 2018 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
+
+<a name="day69"></a>
+### Day 69: March 10, 2018 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top)
+
+<a name="day70"></a>
+### Day 70: March 11, 2018 
 
 **Today's Progress**: 
 
