@@ -27,16 +27,17 @@
 | [Day 46](#day46)    | Selfie with CSS Drawing                 | [Day 47](#day47)    | Dangers of Bias and ML Algorithms in the wild |
 | [Day 48](#day48)    | CSS Drawing of Rupaul <3                | [Day 49](#day49)    | Machine Learning week 10                    |
 | [Day 50](#day50)    | Team building for RSoC                  | [Day 51](#day51)    | Data Science with Python at Pyladies        |
-| [Day 52](#day52)    | Nextcloud meetup & installing a  VM     | [Day 53](#day53)  | Article for increasing Diversity in hiring  |
-| [Day 54](#day52)    | Setting up Nextcloud Dev envrioment     | [Day 55](#day53)    | Women Who Go - Ultimate Go Workshop   	    |
-| [Day 56](#day52)    | Ultimate Go Workshop Day 2 & completing ML course | [Day 57](#day53)| Working on our first Nextcloud issue  |
-| [Day 58](#day52)    | Kubernetes Meetup with Lora             | [Day 59](#day53)    | Application in & Go workshop - Gopher Chess |
-| [Day 60](#day52)    | MicroPyBoard deliver for IOT workshop   | [Day 61](#day53)    | Organisation for PyLadies & mastering Twitter|
-| [Day 62](#day52)    | Golang Course on Udemy                  | [Day 63](#day53)    | First PR for Nextcloud!                     |
-| [Day 64](#day52)    | Automate the Boring things with Python! | [Day 65](#day53)    | Update of Bookclub progress                 |
-| [Day 66](#day52)    |    | [Day 67](#day53)    | Womens March |
-| [Day 68](#day52)    |    | [Day 69](#day53)    |  |
-| [Day 70](#day52)    |    | [Day 71](#day53)    |  |
+| [Day 52](#day52)    | Nextcloud meetup & installing a  VM     | [Day 53](#day53)  | Article for increasing Diversity in hiring    |
+| [Day 54](#day54)    | Setting up Nextcloud Dev envrioment     | [Day 55](#day55)    | Women Who Go - Ultimate Go Workshop   	    |
+| [Day 56](#day56)    | Ultimate Go Workshop Day 2 & completing ML course | [Day 57](#day57)| Working on our first Nextcloud issue  |
+| [Day 58](#day58)    | Kubernetes Meetup with Lora             | [Day 59](#day59)    | Application in & Go workshop - Gopher Chess |
+| [Day 60](#day60)    | MicroPyBoard deliver for IOT workshop   | [Day 61](#day61)    | Organisation for PyLadies & mastering Twitter|
+| [Day 62](#day62)    | Golang Course on Udemy                  | [Day 63](#day63)    | First PR for Nextcloud!                     |
+| [Day 64](#day64)    | Automate the Boring things with Python! | [Day 65](#day65)    | Update of Bookclub progress                 |
+| [Day 66](#day66)    | PHP drawing objects and creating PDFs   | [Day 67](#day67)    | Berlin Womens March, celebrating Women in Tech|
+| [Day 68](#day68)    | Review of JS OP( Address book project)  | [Day 69](#day69)    | Automate the Boring things with Python! Cont.|
+| [Day 70](#day70)    | Reading list (Weapons of Math destruction)| [Day 71](#day71)  | Automate the Boring things with Python! Cont.|
+
 
 
 
@@ -715,7 +716,7 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day66"></a>
 ### Day 66: March 07, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: PHP drawing objects and creating PDFs
 
 **Thoughts** 
 
@@ -726,7 +727,7 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day67"></a>
 ### Day 67: March 08, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Berlin Womens March, celebrating Women in Tech
 
 **Thoughts** 
 
@@ -737,7 +738,7 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day68"></a>
 ### Day 68: March 09, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Review of JS OP( address book project) 
 
 **Thoughts** 
 
@@ -748,7 +749,7 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day69"></a>
 ### Day 69: March 10, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Automate the Boring things with Python! Cont. regex
 
 **Thoughts** 
 
@@ -759,7 +760,18 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day70"></a>
 ### Day 70: March 11, 2018 
 
-**Today's Progress**: 
+**Today's Progress**:  Reading list (Weapons of Math destruction)
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
+
+<a name="day71"></a>
+### Day 71: March 12, 2018 
+
+**Today's Progress**:  Automate the Boring things with Python! Cont. files
 
 **Thoughts** 
 
