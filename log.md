@@ -36,10 +36,10 @@
 | [Day 64](#day64)    | Automate the Boring things with Python! | [Day 65](#day65)    | Update of Bookclub progress                 |
 | [Day 66](#day66)    | PHP drawing objects and creating PDFs   | [Day 67](#day67)    | Berlin Womens March, celebrating Women in Tech|
 | [Day 68](#day68)    | Review of JS OP( Address book project)  | [Day 69](#day69)    | Automate the Boring things with Python! Cont.|
-| [Day 70](#day70)    | Reading list (Weapons of Math destruction)| [Day 71](#day71)  | Automate the Boring things with Python! Cont.|
-
-
-
+| [Day 70](#day70)    | Reading list (Weapons of Math destruction)| [Day 71](#day71)  | Automate the Boring things with Python! (pdfs)|
+| [Day 72](#day72)    | PyData Brainstorming session with PyLadies| [Day 73](#day73)  | End of Automate the Boring things with Python!|
+| [Day 74](#day74)    | 30 Day of Python on Udemy (sending emails)| [Day 75](#day75)  | 30 Days of Python (CSVs)                      |
+| [Day 76](#day76)    | IOT workshop                            | [Day 77](#day77)  | |
 
 <a name="day1"></a>
 ### Day 1: January 1, 2018 
@@ -559,9 +559,9 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day52"></a>
 ### Day 52: February 21, 2018 
 
-**Today's Progress**: Nextcloud meetup & installing a  VM
+**Today's Progress**: Today I reached out to Camila Ayres who works at Nextcloud, she had put herself forwards internally as a possible mentor for RGSoC. As the only female on the list I really wanted to reach out to her. Markus, my friend who coach us, will be a great mentor but I would also like a female mentor. She got back to us almost straight away inviting us to join the Nextcloud meetup that evening. It was a bit of a quick turn around as I was meeting Arati straight from the gym and ran home inbetween our meeting and the Meetup to drop my gym bag and change! The Meetup was amazing, we got stuck straight in and going about installing a VM on our machines so we could run the Nextcloud development enviroment. There were a few other members there as well as Camila. John who works at Oracle and gave me loads of tips about how to navigate through the Command Line. Jokab who also helped us get everything installed. Jos, Camilas partner who also works at Nextcloud and their adorable puppy Popcorn. We were their quite late and it was fairly intense but exciting. Camila is keen to coach us which is amazing!
 
-**Thoughts** 
+**Thoughts** The process of applying for the RGSoC is quite intense but with a second coach and now pretty sure Nextcloud will be the project we apply to I amd feeling more positive about it happening.
 
 **Link(s) to work**:  https://www.ubuntu.com/
 ***
@@ -570,9 +570,9 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day53"></a>
 ### Day 53: February 22, 2018 
 
-**Today's Progress**:  Organisation for PyLadies & mastering Twitter
+**Today's Progress**:  After the last PyLadies Meetup I decided to put myself forwards to help with the Organisation. the recpetion was pretty positive and I am now running their Twitter feed. It had been a little neglected so just adding activity has been a good start. I am trying to make sure the posts and retweets touch a range of topics and stay quite politically neutral, although obviously I am using alot of diversity tags. I am also contacting my partners work to ask them about hosting our May event. Hopefully I am able to pull this off. Outside of the Twitter account I am hoping I can also add a little more activity on the slack channel.
 
-**Thoughts** 
+**Thoughts** I am pretty excited to be involved with the PyLadies group I have super enjoyed the last 5 Meetups and keen to give what I can to the community. It will also help me Network, though I feel pretty intimated by all the amazing women already working in tech. I think this will force me not to be shy and have a reason to speak more of the women.
 
 **Link(s) to work**:  https://www.meetup.com/PyLadies-Berlin
 ***
@@ -581,9 +581,9 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day54"></a>
 ### Day 54: February 23, 2018 
 
-**Today's Progress**: Setting up Nextcloud Dev envrioment
+**Today's Progress**: Today we met with Camila at her place to continue on pur Nextcloud work. The session was a little frustrating as we hit quite a lot of bumps but Camila was super supportive and very dedicated. I had to cut off the session as I have a 2 day workshop this weekend and I felt we otherwise would be there all night! In the end we kind of had things running more than before but no where near the point where we could really work efficiently on the first issue. We have set another meeting for Monday so hopefully we have more success then.
 
-**Thoughts** 
+**Thoughts** It was really super to work with Arati and Camila and work through our problems together, even after a long day. It was perhaps a insight into what we may be doing in the summer, fingers crossed!
 
 **Link(s) to work**:  https://nextcloud.com/
 ***
@@ -592,9 +592,9 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day55"></a>
 ### Day 55: February 24, 2018 
 
-**Today's Progress**: Women Who Go - Ultimate Go Workshop
+**Today's Progress**: Today was day one of Women Who Go - Ultimate Go Workshop. The workshop today was super intense but really interesting, we learnt alot! Bill Kenedy the teacher speaks at an incrediable pace but he does repeat points alot which helps them sink in. We spent all the time looking through code and talking about best practices and atually did no coding in GO. The approach was great because it gave more of an overviewing theory than a language specific introduction. Learning about the connection between the code you write and the hardware was super fascinating and definitely something I want to know more about. I am very keen to connect this to the other languages I have learnt. 
 
-**Thoughts** 
+**Thoughts** The workshop was also a great opportunity to meet with other women developers and hear their experience. This was at times also a little intimidating and I am feeling a little imposter sysdrome although everyone was very friendly. Pretty tired by the end of the day but looking forwards to tomorrow.
 
 **Link(s) to work**:  https://www.meetup.com/Women-Who-Go-Berlin/events/247056137/
 ***
@@ -603,9 +603,9 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day56"></a>
 ### Day 56: February 25, 2018 
 
-**Today's Progress**: Ultimate Go Workshop Day 2 & completing ML course
+**Today's Progress**: Day two of Ultimate Go Workshop was equally as intense but just as enjoyable. Again it was predominently therory and non language specific but at least I now have an idea of how Golang looks and works. I also had the chance to talk with Mei Li organiser of PyLadies Berlin about how I can help there, which was reaffirming. In the evening I completed the videos for the final week of Machine Learning with Andrew Ng from Coursera. I have now completed this course.
 
-**Thoughts** 
+**Thoughts** The weekend was pretty intense but I learnt alot. I also had a really nice chat with Ronna from Women who Go and she was very encouraging I have therefore signed up to the next WWG workshop this coming Wednesday, I am also interested after all this theory to code something in Go.
 
 **Link(s) to work**:  https://www.meetup.com/Women-Who-Go-Berlin/events/247056137/
                       https://www.coursera.org/learn/machine-learning/home/welcome
@@ -615,7 +615,7 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day57"></a>
 ### Day 57: February 26, 2018 
 
-**Today's Progress**: Working on our first Nextcloud issue
+**Today's Progress**: Today we met to continue working on our first Nextcloud issue. We both have our development enviroments better set up
 
 **Thoughts** 
 
@@ -771,7 +771,73 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day71"></a>
 ### Day 71: March 12, 2018 
 
-**Today's Progress**:  Automate the Boring things with Python! Cont. files
+**Today's Progress**:  Automate the Boring things with Python! Cont. files pdf
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
+
+<a name="day72"></a>
+### Day 72: March 13, 2018 
+
+**Today's Progress**:  PyData Brainstorming session with PyLadies
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
+
+<a name="day73"></a>
+### Day 73: March 14, 2018 
+
+**Today's Progress**:  End of Automate the Boring things with Python!
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
+
+<a name="day74"></a>
+### Day 74: March 15, 2018 
+
+**Today's Progress**:   30 Day of Python on Udemy (sending emails)
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
+
+<a name="day75"></a>
+### Day 75: March 16, 2018 
+
+**Today's Progress**:  30 Days of Python (CSVs)
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
+
+<a name="day76"></a>
+### Day 76: March 17, 2018 
+
+**Today's Progress**:  IOT workshop    
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
+
+<a name="day77"></a>
+### Day 77: March 18, 2018 
+
+**Today's Progress**:  
 
 **Thoughts** 
 
