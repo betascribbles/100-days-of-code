@@ -3,43 +3,47 @@
 
 ### Table of contents
 
-| Day                 | Focus                                   | Day                 | Focus                                       |
-|:-------------------:|:----------------------------------------|:-------------------:|:--------------------------------------------|
-| [Day 1](#day1)      | Challenge begins! Los Gehts!            | [Day 2](#day2)      | Codepen and Wes Bros 30 Days of Js          |
-| [Day 3](#day3)      | Machine Learning Week 4                 | [Day 4](#day4)      | Birthday Tennis Game with JS                |
-| [Day 5](#day5)      | PHP and JSON files                      | [Day 6](#day6)      | Anaconda and setting up Jupyter Notebook    |
-| [Day 7](#day7)      | Data Science with Codeacademy           | [Day 8](#day8)      | Trying out React                            |
-| [Day 9](#day9)      | Codewars                                | [Day 10](#day10)    | Vocab App                                   |
-| [Day 11](#day11)    | Service Workers                         | [Day 12](#day12)    | Tidying up my code                          |
-| [Day 13](#day13)    | Week 5 Machine Learning with Coursera   | [Day 14](#day14)    | Data Science & Machine Learning             |
-| [Day 15](#day15)    | Working with Data from the Databank     | [Day 16](#day16)    | Tensorflow with Pyladies                    |
-| [Day 17](#day17)    | Python with Plural Sight                | [Day 18](#day18)    | VUE (Visual understanding Enviroment)       |
-| [Day 19](#day19)    | Mapping out functions                   | [Day 20](#day20)    | This weeks ML & my first tattoo :)          |
-| [Day 21](#day21)    | Laptop down :(                          | [Day 22](#day22)    | Vocab App Development                       |
-| [Day 23](#day23)    | Earned 5 kyū yellow belt on codewars    | [Day 24-31](#day24-31) | No Laptop so development slowed          |
-| [Day 32](#day32)    | “Webpage” version of Vocab App          | [Day 33](#day33)    | Code clean up and revisions (its friday)    |
-| [Day 34](#day34)    | ML Programming Challenge week 8         | [Day 35](#day35)    | Linear Alegbra with MIT                     |
-| [Day 36](#day36)    | Finalising IndexedDB for Vocab App      | [Day 37](#day37)    | PHP integration & Developer Page.           |
-| [Day 38](#day38)    | Timing problem solving                  | [Day 39](#day39)    | Presentation from Vocab App to Class        |
-| [Day 40](#day40)    | Error Fixing and project wrap up        | [Day 41](#day41)    | Anomaly detection and Gausian distribution  |
-| [Day 42](#day42)    | Machine Learning continued              | [Day 43](#day43)    | PPH & MySQL with Udemy                      |
-| [Day 44](#day44)    | Revisiting the Book Club App            | [Day 45](#day45)    | Einstieg in PHP7 and My SQL by Thomas Theis |
+| Day                 | Focus                                   | Day                 | Focus                                         |
+|:-------------------:|:----------------------------------------|:-------------------:|:----------------------------------------------|
+| [Day 1](#day1)      | Challenge begins! Los Gehts!            | [Day 2](#day2)      | Codepen and Wes Bros 30 Days of Js            |
+| [Day 3](#day3)      | Machine Learning Week 4                 | [Day 4](#day4)      | Birthday Tennis Game with JS                  |
+| [Day 5](#day5)      | PHP and JSON files                      | [Day 6](#day6)      | Anaconda and setting up Jupyter Notebook      |
+| [Day 7](#day7)      | Data Science with Codeacademy           | [Day 8](#day8)      | Trying out React                              |
+| [Day 9](#day9)      | Codewars                                | [Day 10](#day10)    | Vocab App                                     |
+| [Day 11](#day11)    | Service Workers                         | [Day 12](#day12)    | Tidying up my code                            |
+| [Day 13](#day13)    | Week 5 Machine Learning with Coursera   | [Day 14](#day14)    | Data Science & Machine Learning               |
+| [Day 15](#day15)    | Working with Data from the Databank     | [Day 16](#day16)    | Tensorflow with Pyladies                      |
+| [Day 17](#day17)    | Python with Plural Sight                | [Day 18](#day18)    | VUE (Visual understanding Enviroment)         |
+| [Day 19](#day19)    | Mapping out functions                   | [Day 20](#day20)    | This weeks ML & my first tattoo :)            |
+| [Day 21](#day21)    | Laptop down :(                          | [Day 22](#day22)    | Vocab App Development                         |
+| [Day 23](#day23)    | Earned 5 kyū yellow belt on codewars    | [Day 24-31](#day24-31) | No Laptop so development slowed            |
+| [Day 32](#day32)    | “Webpage” version of Vocab App          | [Day 33](#day33)    | Code clean up and revisions (its friday)      |
+| [Day 34](#day34)    | ML Programming Challenge week 8         | [Day 35](#day35)    | Linear Alegbra with MIT                       |
+| [Day 36](#day36)    | Finalising IndexedDB for Vocab App      | [Day 37](#day37)    | PHP integration & Developer Page.             |
+| [Day 38](#day38)    | Timing problem solving                  | [Day 39](#day39)    | Presentation from Vocab App to Class          |
+| [Day 40](#day40)    | Error Fixing and project wrap up        | [Day 41](#day41)    | Anomaly detection and Gausian distribution    |
+| [Day 42](#day42)    | Machine Learning continued              | [Day 43](#day43)    | PPH & MySQL with Udemy                        |
+| [Day 44](#day44)    | Revisiting the Book Club App            | [Day 45](#day45)    | Einstieg in PHP7 and My SQL by Thomas Theis   |
 | [Day 46](#day46)    | Selfie with CSS Drawing                 | [Day 47](#day47)    | Dangers of Bias and ML Algorithms in the wild |
-| [Day 48](#day48)    | CSS Drawing of Rupaul <3                | [Day 49](#day49)    | Machine Learning week 10                    |
-| [Day 50](#day50)    | Team building for RSoC                  | [Day 51](#day51)    | Data Science with Python at Pyladies        |
-| [Day 52](#day52)    | Nextcloud meetup & installing a  VM     | [Day 53](#day53)  | Article for increasing Diversity in hiring    |
-| [Day 54](#day54)    | Setting up Nextcloud Dev envrioment     | [Day 55](#day55)    | Women Who Go - Ultimate Go Workshop   	    |
-| [Day 56](#day56)    | Ultimate Go Workshop Day 2 & completing ML course | [Day 57](#day57)| Working on our first Nextcloud issue  |
-| [Day 58](#day58)    | Kubernetes Meetup with Lora             | [Day 59](#day59)    | Application in & Go workshop - Gopher Chess |
-| [Day 60](#day60)    | MicroPyBoard deliver for IOT workshop   | [Day 61](#day61)    | Organisation for PyLadies & mastering Twitter|
-| [Day 62](#day62)    | Golang Course on Udemy                  | [Day 63](#day63)    | First PR for Nextcloud!                     |
-| [Day 64](#day64)    | Automate the Boring things with Python! | [Day 65](#day65)    | Update of Bookclub progress                 |
+| [Day 48](#day48)    | CSS Drawing of Rupaul <3                | [Day 49](#day49)    | Machine Learning week 10                      |
+| [Day 50](#day50)    | Team building for RSoC                  | [Day 51](#day51)    | Data Science with Python at Pyladies          |
+| [Day 52](#day52)    | Nextcloud meetup & installing a  VM     | [Day 53](#day53)    | Article for increasing Diversity in hiring    |
+| [Day 54](#day54)    | Setting up Nextcloud Dev envrioment     | [Day 55](#day55)    | Women Who Go - Ultimate Go Workshop   	      |
+| [Day 56](#day56)    | Ultimate Go Workshop Day 2 & completing ML course | [Day 57](#day57)| Working on our first Nextcloud issue    |
+| [Day 58](#day58)    | Kubernetes Meetup with Lora             | [Day 59](#day59)    | Application in & Go workshop - Gopher Chess   |
+| [Day 60](#day60)    | MicroPyBoard deliver for IOT workshop   | [Day 61](#day61)    | Organisation for PyLadies & mastering Twitter |
+| [Day 62](#day62)    | Golang Course on Udemy                  | [Day 63](#day63)    | First PR for Nextcloud!                       |
+| [Day 64](#day64)    | Automate the Boring things with Python! | [Day 65](#day65)    | Update of Bookclub progress                   |
 | [Day 66](#day66)    | PHP drawing objects and creating PDFs   | [Day 67](#day67)    | Berlin Womens March, celebrating Women in Tech|
-| [Day 68](#day68)    | Review of JS OP( Address book project)  | [Day 69](#day69)    | Automate the Boring things with Python! Cont.|
+| [Day 68](#day68)    | Review of JS OP( Address book project)  | [Day 69](#day69)    | Automate the Boring things with Python! Cont. |
 | [Day 70](#day70)    | Reading list (Weapons of Math destruction)| [Day 71](#day71)  | Automate the Boring things with Python! (pdfs)|
 | [Day 72](#day72)    | PyData Brainstorming session with PyLadies| [Day 73](#day73)  | End of Automate the Boring things with Python!|
 | [Day 74](#day74)    | 30 Day of Python on Udemy (sending emails)| [Day 75](#day75)  | 30 Days of Python (CSVs)                      |
-| [Day 76](#day76)    | IOT workshop                            | [Day 77](#day77)  | |
+| [Day 76](#day76)    | IOT workshop                            | [Day 77](#day77)    | Continuing with my IoT temperature reader     |
+| [Day 78](#day78)    |                                         | [Day 79](#day79)    |                                               |
+| [Day 80](#day80)    |                                         | [Day 81](#day81)    |                                               |
+| [Day 82](#day82)    |                                         | [Day 83](#day83)    |                                               |
+
 
 <a name="day1"></a>
 ### Day 1: January 1, 2018 
@@ -804,9 +808,9 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day74"></a>
 ### Day 74: March 15, 2018 
 
-**Today's Progress**:   30 Day of Python on Udemy (sending emails)
+**Today's Progress**:   Today I started the Udemy 30 Days of Python course, I skipped over a few of the basic classes and went on to the sending emails module. This was a nice continuation of what I learnt from the Automate the Boring things course with some additional functionality and another way of writing out the code. It also went through building a group emailing service from an initial class from an early class that I went back and watched through.
 
-**Thoughts** 
+**Thoughts** It was really great applying what I have learnt so far and learning how to build it into modules which is not used as much in JavaScript. It feels good to be getting more familiar with Python Syntax.
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
 ***
@@ -815,9 +819,9 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day75"></a>
 ### Day 75: March 16, 2018 
 
-**Today's Progress**:  30 Days of Python (CSVs)
+**Today's Progress**:  Today I decided to continue with the 30 days of Python. The subject was editing and writing CSV files which is helpful for Data Base manipulation. I the evening I checked my MicoPython PyBoard again to make sure it is ok for the workshop tomorrow! :D
 
-**Thoughts** 
+**Thoughts** I enjoyed working with Python this week alot and seeing where it differs and where it has similarities. I would like to spend more time here so I can make myself even more familar with the syntax but also think it's important to learn the Data base design while I have my last few weeks at Indisoft and finish off the projects I have made here.
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
 ***
@@ -826,9 +830,9 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day76"></a>
 ### Day 76: March 17, 2018 
 
-**Today's Progress**:  IOT workshop    
+**Today's Progress**: Today was the PyLadies IoT workshop, I have been super looking forwards to it and I was not disappointed. Christine from MicroPython did a great job explaining the company behind the Microcontrollers and how to start using them. We then had a presentation from Amazon and how they are using IoT in their company. The rest of the day was spent trying to get programmes running on our PyBoards such as lighting up LEDs, running servo motors and getting Humidty and Temperature read outs. I met loads of interesting people including Zissi who works at Infarm who specialise in Aquaponics Argiculture, something that really interests me and hopefully I will go over there and see their set up. Actually as a project I want to build a small grow house measuring and logging temperature and humidity, perhaps also light and soil moisture levels. The next step would be to add controllers that can then based on the data alter the enviroment.
 
-**Thoughts** 
+**Thoughts** I really enjoyed today and are very keen to continue with this path of programming for hardware. I also think as the market is increasing there will be plenty of opportunities in this field which is super exciting! I am now planning more projects with the devices I have.
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
 ***
@@ -837,9 +841,9 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day77"></a>
 ### Day 77: March 18, 2018 
 
-**Today's Progress**:  
+**Today's Progress**: Today I continued with my PyBoard to complete the read outs from the Humidity and Temperature being displayed on the LCD screen. I also tried to get it to update when the USR switch is pressed but it was displaying a memorary error so I need to figure out what causes this, but I believe it is connected to the interupts caused by the callback function. I also would like to see if I can change the display when the temperature or humidity changes by a certain amount. 
 
-**Thoughts** 
+**Thoughts** Again I am really digging working with the hardware and programming, I definitely want to dig into this more. From the workshop I was able to see how to put the code into small functions and run scripts through the main.py this links into what I have been learning about python so I keen to dig in more to both learning it straight and applying that to the IoT devices.
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
 ***
