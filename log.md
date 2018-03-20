@@ -619,9 +619,9 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day57"></a>
 ### Day 57: February 26, 2018 
 
-**Today's Progress**: Today we met to continue working on our first Nextcloud issue. We both have our development enviroments better set up
+**Today's Progress**: Today we met to continue working on our first Nextcloud issue. We both have our development enviroments better set up and were able to get started on the issue, the first part: the JavaScript was fairly straight forwards but when we got to the CSS we hit a problem. It seemed like our CSS was not being take over when the code was compiled although we saw it in the style sheets. Camila tried a few things with us including cleaning the cache of the MAKE environment but no luck. In the end we had to move on and organise our application. We recieved news that Absolventa are interested in being our coaching company, as Markus had asked on our behalf. Everything is coming together which is exciting and also a little nerve wrecking incase we don't get in, we now have a large group of people supporting us.
 
-**Thoughts** 
+**Thoughts** It has definitely been a little frustrating that we have not been able to properly work on an issue due to set up problems, but that is defiitely a part of the process. It's been really encouraging to have the support of so many industry professionals and exciting how the group has come together. Now just to finish the application and send it off.
 
 **Link(s) to work**:  https://github.com/nextcloud/contacts/issues/445
 ***
@@ -630,9 +630,9 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day58"></a>
 ### Day 58: February 27, 2018 
 
-**Today's Progress**: Kubernetes Meetup with Lora 
+**Today's Progress**: This evening I met another of our Mentors for RGSoC, Lora, she is a friend of Arati and until now we had not had chance to meet. However she was given a talk on containers orchastration by Kubernetes this evening for Women Tech makers which I had alrady signed up to so it seemed to be perfect situation. The talk was a great over view of Kubernetes and how it fits into the picture with containers. This is definitely something I would like to know more about as containers seem to be very popular. Lora was a little ill so I only got a chance to briefly introduce myself, however hopefully through the RGSoC programme we will get to hang our more. 
 
-**Thoughts** 
+**Thoughts** Another interesting meetup from WTM, I should have taken the time to introduce myself to Natalie who runs it, she seems to be a pretty inspirational organisor for Women in Tech groups. I did talk to the PyData team who presented at the start, I am helping organise a brainstorming session for this with PyLadies and I asked them about volunteering at the event.
 
 **Link(s) to work**: https://www.meetup.com/Women-Techmakers-Berlin/events/246814497/
 ***
@@ -641,9 +641,11 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day59"></a>
 ### Day 59: February 28, 2018 
 
-**Today's Progress**: Application in! & Go workshop - Gopher Chess
+**Today's Progress**: We pressed the button and sent our Application off today for RGSoC! Woohoo so fingers crossed we get in we won't find out until mid April. We also Skyped with Kaja and the Absolventa Team as they have offered to be a coaching company. She seems really nice and also a hard worker which is good inspiration. Kaja actually was a Rails girl last year at Absolventa and got offered a Job at the end of the scholarship so is something of a success story.
 
-**Thoughts** 
+In the evening Arati and I went to the Women Who Go workshop to make a Gopher Chess it was really fun and I worked with a girl to work through the code. This pai programming was a lovely experience, although I had to follow her lead as I don't know the language at all I was able to understand the logic and got familar with the syntax pretty quickly.
+
+**Thoughts** Excited and a little relieved now the application is in, it was a lot of work and a few things fell on the same week which made it quite a straineous week. I am planning to attend more WWG meetups though I think I need to focus on Python now as I believe that is the language I would like to find work in.
 
 **Link(s) to work**:  https://www.meetup.com/Women-Who-Go-Berlin/events/247651593/
                       https://github.com/wwgberlin/go-event-sourcing-exercise
@@ -786,9 +788,9 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day72"></a>
 ### Day 72: March 13, 2018 
 
-**Today's Progress**:  PyData Brainstorming session with PyLadies
+**Today's Progress**:  Today was the first Meetup for PyLadies I have organised, to say I was nervous is an understatement. I had maanged to get a space at Trifork thanks to my contact there Dajana (I met her when we made coffee for the Eurocamp Conf, a Ruby conference. We were just the right amount of attendees and I think everyone got something from it. Personally I really enjoyed listening to all the Women's ideas for talks, though I also felt quite intimidated. A certain amount of feeling overwhelmed and non belonging I assume is normal but still kind of stressed me out, though everyone in the group is lovely and super encouraging. I hope we will see some interesting talks come out of the session and be presented at PyData in July which I have volunteered to help at. 
 
-**Thoughts** 
+**Thoughts** Feeling a little bit of imposter syndrome and intimidation but keen to keep going and push through. It was great to hang out with such interesting women working in the fields of engineering, data science and education.
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
 ***
@@ -797,9 +799,9 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 <a name="day73"></a>
 ### Day 73: March 14, 2018 
 
-**Today's Progress**:  End of Automate the Boring things with Python!
+**Today's Progress**:  Today I finished the Automate the Boring things with Python course on Udemy, I super enjoyed this course and are keen to continue my Python learning. The last chapter was about controlling the Mouse and Keyboard and also Image Recognition which I found interesting. Python has the built in capacity to find an image on a screen as long as it is pixel perfect to the one you gave it. Al the tutor also show a programme he had written to play 'Sushi Go Round' game, I found this great being able to see an application of  what we had learnt.
 
-**Thoughts** 
+**Thoughts** I can really reccomend this course, Al is well humoured and well paced tutor who gives plenty of detail while still making it accessible. I am looking forwards to moving forwards with my Python knowledge.
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
 ***
@@ -844,6 +846,19 @@ In the evening I started week 10 of Machine Learning by Coursera - only one more
 **Today's Progress**: Today I continued with my PyBoard to complete the read outs from the Humidity and Temperature being displayed on the LCD screen. I also tried to get it to update when the USR switch is pressed but it was displaying a memorary error so I need to figure out what causes this, but I believe it is connected to the interupts caused by the callback function. I also would like to see if I can change the display when the temperature or humidity changes by a certain amount. 
 
 **Thoughts** Again I am really digging working with the hardware and programming, I definitely want to dig into this more. From the workshop I was able to see how to put the code into small functions and run scripts through the main.py this links into what I have been learning about python so I keen to dig in more to both learning it straight and applying that to the IoT devices.
+
+**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+***
+[Back to Top](#top) 
+
+<a name="day78"></a>
+### Day 78: March 19, 2018 
+
+**Today's Progress**: A little back to normality today, I spent the day working on a the HTML and JS for my PDF CV Builder, the programme will take form details and turn it into a PDF CV using PHP and then email it to the user. Currently this would be without a Data Bank but that could be a later addition. In the evening after going to the gym and doing the shopping I looked at my PyBoard again but hit more problems than solutions :) still fun!
+
+We are planning to attend the Hackweek from Nextcloud in April and I have been trying to organise accomedation for us. Unfortunately one of the girls from Albania that we are hoping to share with can no longer come, though I have reserved an apartment for us for 5 so we need to try find another person to share with as apartments for four are almost as expensive!!
+
+**Thoughts** Still feel like there's not enough hours in the day but very happy that I get to code everyday and sitting in the Sauna at the gym is a very good "chill" out!
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
 ***
