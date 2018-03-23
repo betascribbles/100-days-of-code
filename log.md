@@ -855,7 +855,7 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 
 **Thoughts** Again I am really digging working with the hardware and programming, I definitely want to dig into this more. From the workshop I was able to see how to put the code into small functions and run scripts through the main.py this links into what I have been learning about python so I keen to dig in more to both learning it straight and applying that to the IoT devices.
 
-**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+**Link(s) to work**:  https://github.com/tine3700/micropython/tree/master/docs/pyboard/tutorial
 ***
 [Back to Top](#top) 
 
