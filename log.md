@@ -40,10 +40,18 @@
 | [Day 72](#day72)    | PyData Brainstorming session with PyLadies| [Day 73](#day73)  | End of Automate the Boring things with Python!|
 | [Day 74](#day74)    | 30 Day of Python on Udemy (sending emails)| [Day 75](#day75)  | 30 Days of Python (CSVs)                      |
 | [Day 76](#day76)    | IOT workshop                            | [Day 77](#day77)    | Continuing with my IoT temperature reader     |
-| [Day 78](#day78)    |                                         | [Day 79](#day79)    |                                               |
-| [Day 80](#day80)    |                                         | [Day 81](#day81)    |                                               |
-| [Day 82](#day82)    |                                         | [Day 83](#day83)    |                                               |
-
+| [Day 78](#day78)    | PDF CV Builder using JS & PHP           | [Day 79](#day79)    | 30 Days of Python (Modules & integrating)     |
+| [Day 80](#day80)    | Nextcloud Meetup - booking hackweek!    | [Day 81](#day81)    | WTM Birthday & International Womens Day Party |
+| [Day 82](#day82)    | PDF CV Builder checking inputs          | [Day 83](#day83)    |                                               |
+| [Day 84](#day84)    |                                         | [Day 85](#day85)    |                                               |
+| [Day 86](#day86)    |                                         | [Day 87](#day87)    |                                               |
+| [Day 88](#day88)    |                                         | [Day 89](#day89)    |                                               |
+| [Day 90](#day90)    |                                         | [Day 91](#day91)    |                                               |
+| [Day 92](#day92)    |                                         | [Day 93](#day93)    |                                               |
+| [Day 94](#day94)    |                                         | [Day 95](#day95)    |                                               |
+| [Day 96](#day96)    |                                         | [Day 97](#day97)    |                                               |
+| [Day 98](#day98)    |                                         | [Day 99](#day99)    |                                               |
+| [Day 100](#day100)  | Mission complete! (*thoughts & future plans)        
 
 <a name="day1"></a>
 ### Day 1: January 1, 2018 
@@ -759,7 +767,7 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 
 **Thoughts** 
 
-**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+**Link(s) to work**: https://www.udemy.com/automate/learn/v4/content
 ***
 [Back to Top](#top)
 
@@ -781,7 +789,7 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 
 **Thoughts** 
 
-**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+**Link(s) to work**:  https://www.udemy.com/automate/learn/v4/content
 ***
 [Back to Top](#top) 
 
@@ -792,7 +800,7 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 
 **Thoughts** Feeling a little bit of imposter syndrome and intimidation but keen to keep going and push through. It was great to hang out with such interesting women working in the fields of engineering, data science and education.
 
-**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+**Link(s) to work**:  https://www.meetup.com/PyLadies-Berlin/
 ***
 [Back to Top](#top) 
 
@@ -803,7 +811,7 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 
 **Thoughts** I can really reccomend this course, Al is well humoured and well paced tutor who gives plenty of detail while still making it accessible. I am looking forwards to moving forwards with my Python knowledge.
 
-**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+**Link(s) to work**:  https://www.udemy.com/automate/learn/v4/content
 ***
 [Back to Top](#top) 
 
@@ -814,7 +822,7 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 
 **Thoughts** It was really great applying what I have learnt so far and learning how to build it into modules which is not used as much in JavaScript. It feels good to be getting more familiar with Python Syntax.
 
-**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+**Link(s) to work**:  https://github.com/codingforentrepreneurs/30-Days-of-Python
 ***
 [Back to Top](#top) 
 
@@ -825,7 +833,7 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 
 **Thoughts** I enjoyed working with Python this week alot and seeing where it differs and where it has similarities. I would like to spend more time here so I can make myself even more familar with the syntax but also think it's important to learn the Data base design while I have my last few weeks at Indisoft and finish off the projects I have made here.
 
-**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+**Link(s) to work**:  https://github.com/codingforentrepreneurs/30-Days-of-Python
 ***
 [Back to Top](#top) 
 
@@ -836,7 +844,7 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 
 **Thoughts** I really enjoyed today and are very keen to continue with this path of programming for hardware. I also think as the market is increasing there will be plenty of opportunities in this field which is super exciting! I am now planning more projects with the devices I have.
 
-**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+**Link(s) to work**:  http://www.micropython.org/
 ***
 [Back to Top](#top) 
 
@@ -851,8 +859,8 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 ***
 [Back to Top](#top) 
 
-<a name="day78"></a>
-### Day 78: March 19, 2018 
+<a name="day79"></a>
+### Day 79: March 20, 2018 
 
 **Today's Progress**: A little back to normality today, I spent the day working on a the HTML and JS for my PDF CV Builder, the programme will take form details and turn it into a PDF CV using PHP and then email it to the user. Currently this would be without a Data Bank but that could be a later addition. In the evening after going to the gym and doing the shopping I looked at my PyBoard again but hit more problems than solutions :) still fun!
 
@@ -860,6 +868,55 @@ We are planning to attend the Hackweek from Nextcloud in April and I have been t
 
 **Thoughts** Still feel like there's not enough hours in the day but very happy that I get to code everyday and sitting in the Sauna at the gym is a very good "chill" out!
 
-**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+**Link(s) to work**:  https://github.com/sleepypioneer/PDFCVBuilder
+***
+[Back to Top](#top) 
+
+<a name="day80"></a>
+### Day 80: March 21, 2018 
+
+**Today's Progress**: 30 days python intregating modules
+
+
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/codingforentrepreneurs/30-Days-of-Python
+***
+[Back to Top](#top) 
+
+<a name="day81"></a>
+### Day 81: March 22, 2018 
+
+**Today's Progress**: WTM birthday and international womens event
+
+**Thoughts** 
+
+**Link(s) to work**:  
+***
+[Back to Top](#top) 
+
+<a name="day82"></a>
+### Day 82: March 23, 2018 
+
+**Today's Progress**: PDF Cb Builder checking inputs
+
+
+
+**Thoughts** 
+
+**Link(s) to work**:  https://github.com/sleepypioneer/PDFCVBuilder
+***
+[Back to Top](#top) 
+
+<a name="day83"></a>
+### Day 83: March 24, 2018 
+
+**Today's Progress**: 
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
 ***
 [Back to Top](#top) 
