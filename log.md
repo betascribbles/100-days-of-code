@@ -42,15 +42,15 @@
 | [Day 76](#day76)    | IOT workshop                            | [Day 77](#day77)    | Continuing with my IoT temperature reader     |
 | [Day 78](#day78)    | PDF CV Builder using JS & PHP           | [Day 79](#day79)    | 30 Days of Python (Modules & integrating)     |
 | [Day 80](#day80)    | Nextcloud Meetup - booking hackweek!    | [Day 81](#day81)    | WTM Birthday & International Womens Day Party |
-| [Day 82](#day82)    | PDF CV Builder checking inputs          | [Day 83](#day83)    |                                               |
-| [Day 84](#day84)    |                                         | [Day 85](#day85)    |                                               |
-| [Day 86](#day86)    |                                         | [Day 87](#day87)    |                                               |
-| [Day 88](#day88)    |                                         | [Day 89](#day89)    |                                               |
-| [Day 90](#day90)    |                                         | [Day 91](#day91)    |                                               |
-| [Day 92](#day92)    |                                         | [Day 93](#day93)    |                                               |
-| [Day 94](#day94)    |                                         | [Day 95](#day95)    |                                               |
-| [Day 96](#day96)    |                                         | [Day 97](#day97)    |                                               |
-| [Day 98](#day98)    |                                         | [Day 99](#day99)    |                                               |
+| [Day 82](#day82)    | PDF CV Builder checking inputs          | [Day 83](#day83)    |  PyData meetup & PyBoard experimentation      |
+| [Day 84](#day84)    |  Continued experimenting with PyBoard   | [Day 85](#day85)    | Data bases and Relational tables              |
+| [Day 86](#day86)    | Relational Algebra                      | [Day 87](#day87)    | Further Relational Algebra ~ exercises        |
+| [Day 88](#day88)    | PyLadies IoT Blog post                  | [Day 89](#day89)    | EnthusiastiCon: LED dresses, self care, ML    |
+| [Day 90](#day90)    | 30 Days of Python & PyBites Podcast     | [Day 91](#day91)    | Web Scraping from sites using JS completed    |
+| [Day 92](#day92)    | Web Scraping from sites using JS completed| [Day 93](#day93)    | Styling the PDF Builder, PHP and Databases  |
+| [Day 94](#day94)    | Completing queires for Book Club App    | [Day 95](#day95)    | Last day at Indisoft                          |
+| [Day 96](#day96)    | Flying to the UK - reading List         | [Day 97](#day97)    |                                               |
+| [Day 98](#day98)    |                                         | [Day 99](#day99)    | Journey to Stuttgart for Nextcloud Hackweek   |
 | [Day 100](#day100)  | Mission complete! (*thoughts & future plans)        
 
 <a name="day1"></a>
@@ -888,7 +888,7 @@ We are planning to attend the Hackweek from Nextcloud in April and I have been t
 <a name="day81"></a>
 ### Day 81: March 22, 2018 
 
-**Today's Progress**: WTM birthday and international womens event
+**Today's Progress**: WTM birthday and international womens event plus Webinar on charts
 
 **Thoughts** 
 
@@ -912,7 +912,211 @@ We are planning to attend the Hackweek from Nextcloud in April and I have been t
 <a name="day83"></a>
 ### Day 83: March 24, 2018 
 
+**Today's Progress**: PyData meetup and experimenting futher with the PyBoard
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day84"></a>
+### Day 84: March 25, 2018 
+
+**Today's Progress**: Continued experimentation with the PyBoard
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day85"></a>
+### Day 85: March 26, 2018 
+
+**Today's Progress**: Data bases and Relational tables
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day86"></a>
+### Day 86: March 27, 2018 
+
+**Today's Progress**: Relational Algebra
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day87"></a>
+### Day 87: March 28, 2018 
+
+**Today's Progress**: Further Relational Algebra ~ exercises
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day88"></a>
+### Day 88: March 29, 2018 
+
+**Today's Progress**: IoT blog 
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day89"></a>
+### Day 89: March 30, 2018 
+
+**Today's Progress**: EnthusiastiCon, LED dresses, self care, Machine Learning
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day90"></a>
+### Day 90: March 31, 2018 
+
+**Today's Progress**: 30 Days of Python & PyBites Podcast
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day91"></a>
+### Day 91: Aril 1, 2018 
+
+**Today's Progress**: Web Scraping from sites using JS
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day92"></a>
+### Day 92: April 2, 2018 
+
+**Today's Progress**: Web Scraping from sites using JS completed
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day93"></a>
+### Day 93: April 3, 2018 
+
+**Today's Progress**: Styling the PDF Builder, PHP and Databases
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day94"></a>
+### Day 94: April 4, 2018 
+
+**Today's Progress**: Completing queires for Book Club App
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day95"></a>
+### Day 95: April 5, 2018 
+
+**Today's Progress**: Last day at Indisoft
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day96"></a>
+### Day 96: April 6, 2018 
+
+**Today's Progress**: Flying to the UK - reading Machine Learning
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day97"></a>
+### Day 97: April 7, 2018 
+
 **Today's Progress**: 
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day98"></a>
+### Day 98: April 8, 2018 
+
+**Today's Progress**: 
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day99"></a>
+### Day 99: April 9, 2018 
+
+**Today's Progress**: Journey to Stuttgart for Nextcloud Hackweek
+
+
+**Thoughts** 
+
+**Link(s) to work**: 
+***
+[Back to Top](#top) 
+
+<a name="day100"></a>
+### Day 100: April 10, 2018 
+
+**Today's Progress**: Final Day
 
 
 **Thoughts** 
