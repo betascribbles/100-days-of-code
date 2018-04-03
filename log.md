@@ -47,9 +47,9 @@
 | [Day 86](#day86)    | Relational Algebra                      | [Day 87](#day87)    | Further Relational Algebra ~ exercises        |
 | [Day 88](#day88)    | PyLadies IoT Blog post                  | [Day 89](#day89)    | EnthusiastiCon: LED dresses, self care, ML    |
 | [Day 90](#day90)    | 30 Days of Python & PyBites Podcast     | [Day 91](#day91)    | Web Scraping from sites using JS completed    |
-| [Day 92](#day92)    | Web Scraping from sites using JS completed| [Day 93](#day93)    | Styling the PDF Builder, PHP and Databases  |
+| [Day 92](#day92)    | Web Scraping from sites using JS completed| [Day 93](#day93)  | Styling the PDF Builder, PHP and Databases  |
 | [Day 94](#day94)    | Completing queires for Book Club App    | [Day 95](#day95)    | Last day at Indisoft                          |
-| [Day 96](#day96)    | Flying to the UK - reading List         | [Day 97](#day97)    |                                               |
+| [Day 96](#day96)    | Flying to the UK - reading List         | [Day 97](#day97)    | Tech Podcasts for Days                        |
 | [Day 98](#day98)    |                                         | [Day 99](#day99)    | Journey to Stuttgart for Nextcloud Hackweek   |
 | [Day 100](#day100)  | Mission complete! (*thoughts & future plans)        
 
@@ -1080,7 +1080,7 @@ We are planning to attend the Hackweek from Nextcloud in April and I have been t
 <a name="day97"></a>
 ### Day 97: April 7, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: Podcasts for Days
 
 
 **Thoughts** 
