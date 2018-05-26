@@ -36,21 +36,21 @@
 | [Day 64](#day64)    | | [Day 65](#day65)    |  |
 | [Day 66](#day66)    | | [Day 67](#day67)    |  |
 | [Day 68](#day68)    | | [Day 69](#day69)    |  |
-| [Day 70](#day70)    | | [Day 71](#day71)  |  |
-| [Day 72](#day72)    | | [Day 73](#day73)  |  |
-| [Day 74](#day74)    | 30 Day of Python on Udemy (sending emails)| [Day 75](#day75)  | 30 Days of Python (CSVs)                      |
-| [Day 76](#day76)    | IOT workshop                            | [Day 77](#day77)    | Continuing with my IoT temperature reader     |
-| [Day 78](#day78)    | PDF CV Builder using JS & PHP           | [Day 79](#day79)    | 30 Days of Python (Modules & integrating)     |
-| [Day 80](#day80)    | Nextcloud Meetup - booking hackweek!    | [Day 81](#day81)    | WTM Birthday & International Womens Day Party |
-| [Day 82](#day82)    | PDF CV Builder checking inputs          | [Day 83](#day83)    |  PyData meetup & PyBoard experimentation      |
-| [Day 84](#day84)    |  Continued experimenting with PyBoard   | [Day 85](#day85)    | Data bases and Relational tables              |
-| [Day 86](#day86)    | Relational Algebra                      | [Day 87](#day87)    | Further Relational Algebra ~ exercises        |
-| [Day 88](#day88)    | PyLadies IoT Blog post                  | [Day 89](#day89)    | EnthusiastiCon: LED dresses, self care, ML    |
-| [Day 90](#day90)    | 30 Days of Python & PyBites Podcast     | [Day 91](#day91)    | Web Scraping from sites using JS completed    |
-| [Day 92](#day92)    | Web Scraping from sites using JS completed| [Day 93](#day93)  | Styling the PDF Builder, PHP and Databases  |
-| [Day 94](#day94)    | Completing queires for Book Club App    | [Day 95](#day95)    | Last day at Indisoft                          |
-| [Day 96](#day96)    | Flying to the UK - reading List         | [Day 97](#day97)    | Tech Podcasts for Days                        |
-| [Day 98](#day98)    |                                         | [Day 99](#day99)    | Journey to Stuttgart for Nextcloud Hackweek   |
+| [Day 70](#day70)    | | [Day 71](#day71)    |  |
+| [Day 72](#day72)    | | [Day 73](#day73)    |  |
+| [Day 74](#day74)    | | [Day 75](#day75)    |  |
+| [Day 76](#day76)    | | [Day 77](#day77)    |  |
+| [Day 78](#day78)    | | [Day 79](#day79)    |  |
+| [Day 80](#day80)    | | [Day 81](#day81)    |  |
+| [Day 82](#day82)    | | [Day 83](#day83)    |  |
+| [Day 84](#day84)    | | [Day 85](#day85)    |  |
+| [Day 86](#day86)    | | [Day 87](#day87)    |  |
+| [Day 88](#day88)    | | [Day 89](#day89)    |  |
+| [Day 90](#day90)    | | [Day 91](#day91)    |  |
+| [Day 92](#day92)    | | [Day 93](#day93)    |  |
+| [Day 94](#day94)    | | [Day 95](#day95)    |  |
+| [Day 96](#day96)    | | [Day 97](#day97)    |  |
+| [Day 98](#day98)    | | [Day 99](#day99)    |  |
 | [Day 100](#day100)  | Mission complete! (*thoughts & future plans)        
 
 <a name="day1"></a>
