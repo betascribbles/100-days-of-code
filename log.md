@@ -663,9 +663,9 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 <a name="day60"></a>
 ### Day 60: March 01, 2018 
 
-**Today's Progress**: MicroPyBoard delivery for IOT workshop
+**Today's Progress**: Today I recieved my MicroPyBoard for the PyLadies IOT workshop on the the 17th. I much looking forwards to this workshop and excited to start experiementing with the board. Of course no time like the presence so I set the board up and started running through the tutorial on the MicroPyBoard website. I managed to get the LEDs lighting up, two also have intensity settings. One tutorial also demonstrated the accelerometer and had you build a level which was interesting to see the sesitivity of the sensor. I also put the board into mouse mode so it could be used as a mouse.
 
-**Thoughts** 
+**Thoughts** Very excited for the workshop and to be able to get a better grasp on hardware programming!
 
 **Link(s) to work**:  https://www.meetup.com/PyLadies-Berlin/events/246897580/
 ***
@@ -674,9 +674,9 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 <a name="day61"></a>
 ### Day 61: March 02, 2018 
 
-**Today's Progress**: Article for increasing Diversity in hiring
+**Today's Progress**: Today I edited and polised an article I have been writing on why I think the Rails Girls Summer of Code has an important impact on diversity in the Tech industry and should be supported by more companies. I wrote this after we talked with Jos about not so many Teams being sponsored and how we could maybe raise awareness. I published the article to Medium (Link is below) and tweeted it managing to get several retweets. It was good process to write a slightly longer piece as I would definitelybe interested in blogging my experience and writing technical articles in the future. It was also very theraputic putting my thoughts down on paper (so to speak because I typed it of course ^^)
 
-**Thoughts** 
+**Thoughts** It was a lot of work making sure this piece expressed my feelings but was clear and concise in its message. A very valuable learning expereience which I plan to repeat and hope can also bring some awareness to the Summer of Code. Of course the more Teams sponsored the greater chance Arati and I have of getting in so it is also in my interest, however thats not my main motivation. 
 
 **Link(s) to work**:  https://docs.google.com/document/d/1HvVURE8J6esYWjTlHGNgzMnq7c98FoUgejZ6SWAZlsc/edit?usp=sharing
                       https://railsgirlssummerofcode.org/
@@ -686,9 +686,9 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 <a name="day62"></a>
 ### Day 62: March 03, 2018 
 
-**Today's Progress**:  Golang Course on Udemy   
+**Today's Progress**:  I started to go through the Golang Course on Udemy today, mainky looking at the format and what was covered, it seems new content for routines has been adding which is great that it is so up to date. I am not sure when I will have time to properly start this course as the next the few weeks are going to be busy. However I hope to be able to do some before the next Women Who Go workshop in April so that I have a better grasp of the language. 
 
-**Thoughts** 
+**Thoughts** Although I am a little unsure about starting another langauge I am interested to see what Golang can do particular because although it is a higher level language you can still feel a real effect on the processor and hardware. I plan to keep this to a minimum of the attending the WWG workshops and completing this course, however I wouldn't be adverse to a project in the language and I have also seen it is suitable for IoT and even machine learning.
 
 **Link(s) to work**:  https://www.udemy.com/einfuhrung-in-go/learn/v4/content
 ***
@@ -697,9 +697,9 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 <a name="day63"></a>
 ### Day 63: March 04, 2018 
 
-**Today's Progress**: First PR for Nextcloud! 
+**Today's Progress**: Today we were finally able to make our first PR for Nextcloud! We met at Home cafe and finished off our solution before making the request, which was super exciting! This was particulary satifying considering the amount of time we needed setting up our enviroment and working out problems. We quickly got a review that suggested an extra step to improve our solution although we were still able to merge our progress so far as the extension can be completed afterwards. It was good going through the process of making a pull request with Camila, though I feel I will have to do it a few more times before I feel confident with it. Throughout this process we have changed around our work flow quite a few times, which has ultimately made it better, however it has left me slightly confused to what the exact steps were. I am hoping with repetition this will become more clear.
 
-**Thoughts** 
+**Thoughts** It was great to make our first pull request as I feel we were both feeling a little over whelmed and disappointed everything was taking so long. So now finally something to celebrate, though we are already planning what we will tackle next!
 
 **Link(s) to work**:  https://github.com/nextcloud/contacts/pull/509
 ***
@@ -741,9 +741,9 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 <a name="day67"></a>
 ### Day 67: March 08, 2018 
 
-**Today's Progress**: Berlin Womens March, celebrating Women in Tech
+**Today's Progress**: Today is Internation Women's Day so after school I went to the Berlin Womens March. My friend Matze who is a programmer joined me and we had a great time marching together. Some of his friends joined including Franziska who works at WikiMedia and has been very vocal in Germany about internet freedom. We went for some drinks afterwards and Matze explained me that maybe she can help host PyLadies at her work and also give a talk.
 
-**Thoughts** 
+**Thoughts** Very happy and proud to march with my sisters and celebrate women everywhere! 
 
 **Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
 ***
@@ -763,9 +763,7 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 <a name="day69"></a>
 ### Day 69: March 10, 2018 
 
-**Today's Progress**: Automate the Boring things with Python! Cont. regex
-
-**Thoughts** 
+**Today's Progress**: I worked through the REGEX chapter for Automate the Boring things with Python. As I have already done some REGEX work this was not completely new but a great refresher and chance to learn a few more tips and see the sytanx to embed it within Python scripts.
 
 **Link(s) to work**: https://www.udemy.com/automate/learn/v4/content
 ***
@@ -774,20 +772,20 @@ In the evening Arati and I went to the Women Who Go workshop to make a Gopher Ch
 <a name="day70"></a>
 ### Day 70: March 11, 2018 
 
-**Today's Progress**:  Reading list (Weapons of Math destruction)
+**Today's Progress**:  This last week alongside coding I have been reading Weapons of Math destruction by Cathy O'Neil. She explains very thorough examples of how algorithms used in society can be heavily based and have devastating outcomes for those it targets. I highly reccomend the book as it was a fascinating read and very well put together as well as being very informative. I also watched recently a talk by Kate Crawford on a similar field which I also really enjoyed. I will post the link below.
 
-**Thoughts** 
+**Thoughts** Another reason for being drawn to work within tech and with machine learning is the effect it has on the society around us, both positive and negative. Its a discussion I would like to be a part of and know more about.
 
-**Link(s) to work**:  https://github.com/sleepypioneer/page3Book_club_app
+**Link(s) to work**:  
 ***
 [Back to Top](#top) 
 
 <a name="day71"></a>
 ### Day 71: March 12, 2018 
 
-**Today's Progress**:  Automate the Boring things with Python! Cont. files pdf
+**Today's Progress**:  Today I continued with Automate the Boring things with Python by Al schweirgert. This chapter was about file manipulation and in particular PDF. As I have just learnt something similar in PHP I found this good timing and pretty interesting, although at least for the libraries demonstrated it seems PHP allows for more maipulation when creating PDF files than Python.
 
-**Thoughts** 
+**Thoughts** This course is extremely good, Al has a very nice manner of explaining the tasks keeping them interesting while still thorough. I have also looked at some of his other resources for after this course is completed.
 
 **Link(s) to work**:  https://www.udemy.com/automate/learn/v4/content
 ***
@@ -948,10 +946,10 @@ We are planning to attend the Hackweek from Nextcloud in April and I have been t
 <a name="day86"></a>
 ### Day 86: March 27, 2018 
 
-**Today's Progress**: Relational Algebra
+**Today's Progress**: Continuing on from learning about Databases I focused today on the Maths behind the queries. The Standford couse has a section on pure relational Algebra which was led by a mathematician. This felt like a very thorough approach to understanding the underpinning theories and equations behind databases which I am happy to invest in so I have a good understanding of the architecture. Additionally learning the equations has helped me understand better the SQL queries I have learnt so far.
 
 
-**Thoughts** 
+**Thoughts** It was very enjoying to learn some Maths, I am looking to schedule time to continue also with the MIT linear algebra course when I return from Stuttgart in two weeks.
 
 **Link(s) to work**: 
 ***
@@ -960,10 +958,10 @@ We are planning to attend the Hackweek from Nextcloud in April and I have been t
 <a name="day87"></a>
 ### Day 87: March 28, 2018 
 
-**Today's Progress**: Further Relational Algebra ~ exercises
+**Today's Progress**: I continued on with Relational Algebra toaday and completed the exercises for the Standford class. These were very challenging but a lot of fun! They slowly got harder but I managed to pass them all. However I did realise afterwards when reviewing my answer that although it had passed the tests and did suply the correct answer, I had hard coding in information from the data and it was therefore specific to the question and not general. I would like to look futher to see if I can figure out the correct answer and I have also printed out additional questions to test myself.
 
 
-**Thoughts** 
+**Thoughts** It's been really great getting stuck into the maths behind this and putting it together to see the relation to code and SQl queries. The course with Standford although very technical was thorough and I will look into more of their Maths classes for other subjects.
 
 **Link(s) to work**: 
 ***
@@ -972,10 +970,10 @@ We are planning to attend the Hackweek from Nextcloud in April and I have been t
 <a name="day88"></a>
 ### Day 88: March 29, 2018 
 
-**Today's Progress**: IoT blog 
+**Today's Progress**: After the IoT workshop with PyLadies I had written a blog post about what we did and with who. This was stipulated by the sponsors but also good for us to keep a record and something as a collective we would like to do more often. Today I styled the Bootstrap template that Mei Li had added to the github pages for the workshop. This was mainly adjusting some styling and adding images and links, so not too difficult. The main challenge was pushing it to their Github account as I am still a little unsure about the organisations works and permission, however in the end once I had the rights to add to the repo I was able to push it and make it go live!
 
 
-**Thoughts** 
+**Thoughts** It was really nice working on a real project, though also a little nerve wracking as I was worried I would mess it up. Alot learnt in the process which is super valuable. I am looking to redo their website using Django once I have finished with the school.
 
 **Link(s) to work**: 
 ***
@@ -984,10 +982,10 @@ We are planning to attend the Hackweek from Nextcloud in April and I have been t
 <a name="day89"></a>
 ### Day 89: March 30, 2018 
 
-**Today's Progress**: EnthusiastiCon, LED dresses, self care, Machine Learning
+**Today's Progress**: Today I worked at my friends cafe for the Easter break, a nice chance to do something different and earn a bit of cash. However I continued with the 30 Days of Python course a little in the evening, mainly consolidating what I have learnt so far. I also discovered the PyBites Podcast and listened to a couple of episodes.
 
 
-**Thoughts** 
+**Thoughts** I am keen to keep up the progress with my Python programming and already found a few courses I am interested to do when I finish the 30 Days course. I think I should also move on to projects hich allow me to expand my skills and offer a chance to produce portfolio pieces.
 
 **Link(s) to work**: 
 ***
@@ -996,10 +994,10 @@ We are planning to attend the Hackweek from Nextcloud in April and I have been t
 <a name="day90"></a>
 ### Day 90: March 31, 2018 
 
-**Today's Progress**: 30 Days of Python & PyBites Podcast
+**Today's Progress**: Today I went to EnthusiastiCon, a conference for mainly new speakers to talk about their knowledge or projects. My main reason for going wa that one of the PyLadies members Ellen was giving a talk on Machine Learning which I was keen to see. However there were a number of interesting projects shown including an LED dress that using a Adafruit unit changed color and how lit up it was according to the change in volume of  the sound around it. It looked a little like an old stereo display but of course much prettier! There was also a talk about Python programming in the console which I enjoyed and one about self care and avoiding burn out. Overall it was very enjoyable and Mei Li also joined so it was lovely chatting with her and Jose. He had been a systems adminstrator back in spain for linux setting them up for schools and had also studied a bit of electrical engineering, though had left before the course ending.
 
 
-**Thoughts** 
+**Thoughts** It was nice to see some first time speakers and hear about a few interesting projects though not all I was able to follow or found super interesting, over all the conference was nice. I chilled the rest of the day as I am working in the cafe the next two days.
 
 **Link(s) to work**: 
 ***
@@ -1008,10 +1006,10 @@ We are planning to attend the Hackweek from Nextcloud in April and I have been t
 <a name="day91"></a>
 ### Day 91: Aril 1, 2018 
 
-**Today's Progress**: Web Scraping from sites using JS
+**Today's Progress**: Today I was working again at the cafe so only got a little bit of 30 Days of Python done. This time Web Scraping from sites using JS, so to be able to fetch data after it is loaded using Selenium as a web driver. I can definitely see me using Web scraping in the future so its been good to go through it and see how relatively easy it is. I didn't quite get through this chapter but plan to finish it tomorrow.
 
 
-**Thoughts** 
+**Thoughts** I am really enjoying expanding my Python knowledge and seeing what is capable with it. I am also hopeing by running through these projects I can get an idea how to lay my own code out for my own projects.
 
 **Link(s) to work**: 
 ***
@@ -1019,11 +1017,10 @@ We are planning to attend the Hackweek from Nextcloud in April and I have been t
 
 <a name="day92"></a>
 ### Day 92: April 2, 2018 
+**Today's Progress**: Today I also worked in the cafe, it was a pretty busy day which was good, in the evening we went out for a couple of drinks together but I managed to complete the 30 Days of Python Web Scraping from sites using JS chapter.
 
-**Today's Progress**: Web Scraping from sites using JS completed
 
-
-**Thoughts** 
+**Thoughts** Looking forwards to continuing with the 30 Days of Python though it will probably be in two weeks when I have finished the course at Indisoft and returned from the Hackweek.
 
 **Link(s) to work**: 
 ***
@@ -1032,94 +1029,88 @@ We are planning to attend the Hackweek from Nextcloud in April and I have been t
 <a name="day93"></a>
 ### Day 93: April 3, 2018 
 
-**Today's Progress**: Styling the PDF Builder, PHP and Databases
+**Today's Progress**: Today I completed the styling for the CV PDF Bulder App, so now it looks fancy :) This was quite a quick process as I could reuse styles I had developed for my other projects and it really brings the project to a more polished stand point. Although there is a lot more work I can do on it, I feel it portrays the initial idea I wanted to experiment with. I aim to use this as a portfolio piece to demonstrate my PHP knowledge and how I approach a project. Something I wish I had done is noted the time I took for the projects more so I could give them more scope. I think this would be useful as I am not intending to complete the project and would rather have it displayed as a demo or short project.
 
 
-**Thoughts** 
+**Thoughts** I am quite happy with this piece as a short project to demonstrate my PHP knowledge and one aspect of what the language is capable of. With the styling it looks alot better already so I am only going to do finishing touches on this.
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/sleepypioneer/PDFCVBuilder
 ***
 [Back to Top](#top) 
 
 <a name="day94"></a>
 ### Day 94: April 4, 2018 
 
-**Today's Progress**: Completing queires for Book Club App
+**Today's Progress**: My focus today was completing the database queries for the Book Club App. Having set the database up correctly with the intersecting tables I just need to make sure these were updated when a user selected a book in the poll or answered regarding about their attendance. I would still like to continue working on the construction of the JS for this project as I had started completely reworking it but I will do that once I am back after Hackweek and worked out my schedule. I also completed a few bits on the PDF builder so I can present it tomorrow to the others on the course. I adding a loading function for when the PDF is being made and the email part with PHP mailer although it was not working on my locale host in Indisoft I got it working at home.
 
 
-**Thoughts** 
+**Thoughts** Looking forwards to my last day tomorrow and presenting the project. I have at least 3 solid pieces that are not completed projects but very fleshed out. Also importantly they are are all on github and have daily pushes to them to show my work commitment and activity.
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/sleepypioneer/page3Book_club_app
 ***
 [Back to Top](#top) 
 
 <a name="day95"></a>
 ### Day 95: April 5, 2018 
 
-**Today's Progress**: Last day at Indisoft
+**Today's Progress**: Today was my last day at Indisoft as I will miss the last two official days because of the Hackweek and tomorrow I am taking holiday as I fly to the UK. I definitely have mixed feelings about the experience of this course. Structure and feedback were lacking which made it at times quite frustrating on the other hand we had the opportunity to work freely on our own projects which for myself was great as I had a clear idea of how I wanted to proceed and definietly would have been more frustrated if we had been forced to work through their text books or attend back to back lectures from the teachers, already the lectures we had (two a week) were lacking in substance and felt more like the teacher trying to pass the time (* In fairness not all were like this, however it was the vast majority.) I am still glad I completed the course and the eventual feedback I got was very positive and encouraging although I will most likely not go in the direction it bought me the time to learn some underlying themes and afford the time to continue learning without having to work part time.
 
 
-**Thoughts** 
+**Thoughts** I am very excited to be moving on from this course and starting the next chapter of my developer journey, already I have lots planned and I am looking forwards to being able to set my own schedule!
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/sleepypioneer/PDFCVBuilder
 ***
 [Back to Top](#top) 
 
 <a name="day96"></a>
 ### Day 96: April 6, 2018 
 
-**Today's Progress**: Flying to the UK - reading Machine Learning
+**Today's Progress**: Today I flew to the UK as my Uncle has his 60th birthday and I will stay the first night with my Brother and his wife. I prepped by downloading a few different podcasts I had found including Machine Learning Guide and the AI Podcast. The first is a structure series that you can use a curiculum with a large selection of additional resources to supplement your learning. Already I am pretty excited to encoperate this in my next round of 100 Days of Code. I listened to the first 4 podcasts and started one of the recommended books. I intend to do this again more focused after I return from Stuttgart, however I didn't want to slack on my last days of this round.
 
 
-**Thoughts** 
+**Thoughts** Looking forwards to catching up with my family and having a bit of a break to celebrate finishing the course at Indisoft and round one of my 100 Days of Code.
 
-**Link(s) to work**: 
 ***
 [Back to Top](#top) 
 
 <a name="day97"></a>
 ### Day 97: April 7, 2018 
 
-**Today's Progress**: Podcasts for Days
+**Today's Progress**: Today was my uncles party so I was not able to get much done, I had a bit of a read in the morning but otherwise I was socially engaged.
 
-
-**Thoughts** 
-
-**Link(s) to work**: 
 ***
 [Back to Top](#top) 
 
 <a name="day98"></a>
 ### Day 98: April 8, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: I flew home from the UK today so more of Machine Learning Guide podcast and reading. I definitely want to tackle this more concentrated when I am back from the Hackweek and can plan a schedule.
 
 
-**Thoughts** 
+**Thoughts** It was great to have a chilled weekend with my family before the Hackweek next week and after completing the Indisoft course. I am excited to finish my few days of 100 Days of Code but already planning the next as it hass been so motivating and beneficial, and fun :)
 
-**Link(s) to work**: 
 ***
 [Back to Top](#top) 
 
 <a name="day99"></a>
 ### Day 99: April 9, 2018 
 
-**Today's Progress**: Journey to Stuttgart for Nextcloud Hackweek
+**Today's Progress**: Today Arati, my partner for the RGSoC, travelled to Stuttgart on train for the Nextcloud Hackweek. The train journey was a great chance to catch up with other and talk about our plan for the week. She also had some exciting news to share with me for her own development. We are both excited to be taking part in the Hackweek all be it a little nervous and unsure of what to expect. After arriving and checking into our hostel and meeting Xheni from Albanian who is also doing the Hackweek and is staying with us we went for a wander into the city center. It is pretty similar to other southern german towns I have visited but none the less has a little of it's own feel. We then went to meet the Nextclouders for dinner, after a bit of  mix up about location we had Tacos, and Burgers with Jos and Camila, we also got to meet the others though they ate before we arrived due to our location faux par. Perhaps not surprising is that Camila is the only women, I am so glad we have her as a coach she is a great inspiration. However the guys were all pretty friendly though we both definitely felt a little like fresh exhibits. We got a quick tour of some of the city sights from Jan who we met at the last meetup and then went to see the office space. We headed home at ten though the others still seemed in full swing because we were all a little tired from travelling, and had to figure our way back to the hostel :) I had some upsetting personal news today but both Xheni and Arati were really supportive which makes me feel very positive about staying the week here.
 
 
-**Thoughts** 
+**Thoughts** I can't believe it's day 99!! And for day 100 I'll be participate in a Hackweek for an open source project, it still feels a little unreal if I'm honest but very exciting at the same time.
 
-**Link(s) to work**: 
+**Link(s) to work**: https://nextcloud.com/blog/time-for-another-hackweek/
 ***
 [Back to Top](#top) 
 
 <a name="day100"></a>
 ### Day 100: April 10, 2018 
 
-**Today's Progress**: Final Day
+**Today's Progress**: Day 100 - I made it!! Hard to believe the 100 Days has finished already. However I have definitely achieved alot in this time. Looking back over my progress has been extremely satisfying though there is still plenty I have lined up to do. I am extremely happy to be able to finish this round at a Hackweek for an open source project with my RGSoC partner and new friend Arati as well as another new friend Xheni (alumni RGSoC). It is super encouraging to see their success and skills. Of course it is also great the support we are also getting from others at the Hackweeksuch as Daniel, Jan and of course Jos and Camila. Working on a real project is incredibly rewarding. Today we worked on an extension of our first pull request to show the actual count with a hover over if it is more than 9999 as this displays as 9999+ We learnt alot on the way to achieving this, as we have with all our other work on this project.
 
 
-**Thoughts** 
+**Thoughts** I'm super happy to have finished round one but also already planning round 2! I am incredibly gratefull to all my family and friends who have been extremely supportive and kept me going. I plan to write a longer blog post on my over all experience and the Hackweek which I will link below.
 
 **Link(s) to work**: 
 ***
